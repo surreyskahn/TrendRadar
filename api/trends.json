@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-10-26T06:24:40.659609+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2025-10-26T12:29:38.466460+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "特朗普宣布对加拿大征收10%额外关税",
+          "url": "https://www.toutiao.com/trending/7564897310455529499/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
         {
           "title": "特朗普：愿在亚洲行期间会见金正恩",
           "url": "https://news.ifeng.com/c/8nju7bs3kIz",
@@ -17,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "特朗普：对加拿大再征收10%额外关税",
+          "url": "https://news.ifeng.com/c/8nkgbcKnGsh",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         },
         {
           "title": "如何评价特朗普大规模拆除白宫建筑，将斥资 2.5 亿美元改建 8000 平米宴会厅？",
@@ -30,6 +52,17 @@
           "time_info": "06时24分"
         },
         {
+          "title": "特朗普拆建白宫为何招非议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%86%E5%BB%BA%E7%99%BD%E5%AE%AB%E4%B8%BA%E4%BD%95%E6%8B%9B%E9%9D%9E%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
+        {
           "title": "韩国民众举行反特朗普示威",
           "url": "https://news.ifeng.com/c/8nkKIhcxWDm",
           "source": "凤凰网",
@@ -39,6 +72,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "美国总统特朗普启程访问亚洲三国",
+          "url": "https://news.ifeng.com/c/8nke38dJpcH",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         },
         {
           "title": "关键判决前夕，伯南克、耶伦带头，近50名经济学家呼吁美最高法推翻特朗普关税",
@@ -56,11 +100,58 @@
           "url": "https://wallstreetcn.com/livenews/2993699",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            17
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 12时29分]"
+        },
+        {
+          "title": "特朗普玩“军阀剧本”这波绝了!",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346209&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E7%8E%A9%E2%80%9C%E5%86%9B%E9%98%80%E5%89%A7%E6%9C%AC%E2%80%9D%E8%BF%99%E6%B3%A2%E7%BB%9D%E4%BA%86%21",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 12时29分]"
+        },
+        {
+          "title": "泰国总理将于周日在马来西亚与特朗普举行会谈。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2993685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 12时29分]"
+        },
+        {
+          "title": "贝森特“坦白局”：力推MAGA，但保护市场，特朗普“总是宣布高关税创造杠杆，随后降低”",
+          "url": "https://wallstreetcn.com/articles/3757912",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时24分"
+          "time_info": "12时29分"
+        },
+        {
+          "title": "高市早苗与特朗普进行首次电话会谈",
+          "url": "https://flash.jin10.com/detail/20251026110048820800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         },
         {
           "title": "特朗普叫停美加贸易磋商 加拿大总理：愿在美国“准备好时”重启谈判",
@@ -74,6 +165,17 @@
           "time_info": "06时24分"
         },
         {
+          "title": "不满加拿大反关税广告 特朗普宣布对加方征收10%额外关税",
+          "url": "https://wallstreetcn.com/livenews/2993710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
+        {
           "title": "伯南克与耶伦领衔 近50位经济学家呼吁美最高法院推翻特朗普关税政策",
           "url": "https://www.cls.cn/detail/2180455",
           "source": "财联社热门",
@@ -83,6 +185,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "特朗普：对加拿大加征10%关税",
+          "url": "https://www.douyin.com/hot/2283231",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
+        {
+          "title": "美国宣布对俄罗斯实施制裁，特朗普已取消与普京的会面，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1964649033109865460",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
+        {
+          "title": "特朗普：“国际部队”不久将进驻加沙",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E2%80%9C%E5%9B%BD%E9%99%85%E9%83%A8%E9%98%9F%E2%80%9D%E4%B8%8D%E4%B9%85%E5%B0%86%E8%BF%9B%E9%A9%BB%E5%8A%A0%E6%B2%99",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         },
         {
           "title": "美国白宫官员：美国总统特朗普将在前往马来西亚的途中停留，会见卡塔尔埃米尔和卡塔尔首相。",
@@ -96,26 +231,26 @@
           "time_info": "06时24分"
         },
         {
-          "title": "特朗普玩“军阀剧本”这波绝了!",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346209&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E7%8E%A9%E2%80%9C%E5%86%9B%E9%98%80%E5%89%A7%E6%9C%AC%E2%80%9D%E8%BF%99%E6%B3%A2%E7%BB%9D%E4%BA%86%21",
-          "source": "贴吧",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "泰国总理将于周日在马来西亚与特朗普举行会谈。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2993685",
-          "source": "华尔街见闻-快讯",
+          "title": "市场消息：美国总统特朗普抵达吉隆坡。",
+          "url": "https://flash.jin10.com/detail/20251026095739323800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时24分"
+          "time_info": "12时29分"
+        },
+        {
+          "title": "不满加拿大反关税广告，特朗普宣布对加方征收10%额外关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31837755",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-25）",
@@ -127,6 +262,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "特朗普即将访日 美驻日使馆附近发生持刀袭警事件",
+          "url": "https://flash.jin10.com/detail/20251026090438290800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         },
         {
           "title": "泰国政府声明：泰国外长将于周日停火协议签署仪式前与美国总统特朗普举行会晤。",
@@ -161,11 +307,12 @@
           "url": "https://www.cls.cn/detail/2180462",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时24分"
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 12时29分]"
         },
         {
           "title": "美国 9 月 CPI 全线低于预期，美股三大指数盘中均创历史新高，黄金白银下跌，哪些信息值得关注？",
@@ -194,6 +341,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Sora做社交，ChatGPT上广告，OpenAI正在复刻早期的Facebook？",
+          "url": "https://wallstreetcn.com/articles/3757909",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         }
       ]
     }
