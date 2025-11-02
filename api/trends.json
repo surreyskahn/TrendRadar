@@ -1,33 +1,57 @@
 {
-  "generated_at": "2025-11-02T06:24:58.378516+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-02T12:31:48.514089+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "美防长：特朗普和我都认为美中关系从未如此之好",
+          "url": "https://news.ifeng.com/c/8nwvz4AVTbb",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "逼近历史最长纪录！美政府“停摆”超31天，特朗普急了",
+          "url": "https://news.ifeng.com/c/8nvnXJwNw8a",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
         {
           "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
           "url": "https://www.cls.cn/detail/2188509",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 12时31分]"
         },
         {
           "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
           "url": "https://news.ifeng.com/c/8nvbiDiFTxi",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 06时24分]"
+          "appearance_count": 3,
+          "time_info": "[06时23分 ~ 12时31分]"
         },
         {
           "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
@@ -52,13 +76,35 @@
           "time_info": "[06时23分 ~ 06时24分]"
         },
         {
+          "title": "美国政府关门时长逼近历史记录，特朗普误判民主党决心，“关键时刻”到来！",
+          "url": "https://wallstreetcn.com/articles/3758488",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "特朗普允许韩国在费城制造核动力潜艇，会对韩国海军实力有怎样的提升？",
+          "url": "https://www.zhihu.com/question/1967205319198372105",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
           "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
           "url": "https://m.thepaper.cn/newsDetail_forward_31864882",
           "source": "澎湃新闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         }
@@ -66,7 +112,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
@@ -95,11 +141,12 @@
           "url": "https://wallstreetcn.com/articles/3758475",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 06时24分]"
+          "appearance_count": 3,
+          "time_info": "[06时23分 ~ 12时31分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
@@ -111,6 +158,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 06时24分]"
+        },
+        {
+          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
+          "url": "https://wallstreetcn.com/articles/3758487",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         }
       ]
     },
@@ -147,9 +205,37 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中上协：避险情绪升温推动金价走高，前三季度贵金属行业上市公司净利润增长55.96%",
+          "url": "https://wallstreetcn.com/livenews/2998074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "金价起落之间：有人梭哈有人“卧倒”",
+          "url": "https://www.toutiao.com/trending/7567509383320567871/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         }
       ]
     },
