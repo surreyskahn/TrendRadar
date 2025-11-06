@@ -1,12 +1,36 @@
 {
-  "generated_at": "2025-11-06T12:33:47.088656+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2025-11-06T18:31:59.972036+08:00",
+  "total_titles_processed": 775,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
+          "url": "https://wallstreetcn.com/articles/3758755",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 18时31分]"
+        },
+        {
+          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
+          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 18时31分]"
+        },
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
           "url": "https://wallstreetcn.com/articles/3758705",
@@ -17,17 +41,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 06时26分]"
-        },
-        {
-          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
-          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
         },
         {
           "title": "特朗普再次对尼日利亚发出威胁",
@@ -41,24 +54,13 @@
           "time_info": "06时26分"
         },
         {
-          "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
-          "url": "https://wallstreetcn.com/articles/3758755",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
           "title": "特朗普的大麻烦来了",
           "url": "https://news.ifeng.com/c/8o3LYHlTKNB",
           "source": "凤凰网",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         },
@@ -74,13 +76,24 @@
           "time_info": "06时26分"
         },
         {
+          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
+          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "特朗普关税遭美国高院大法官轮番质疑 预测市场胜率跳水大跌",
           "url": "https://www.cls.cn/detail/2192410",
           "source": "财联社热门",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         },
@@ -91,7 +104,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         },
@@ -104,8 +117,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时25分 ~ 12时33分]"
+          "appearance_count": 4,
+          "time_info": "[06时25分 ~ 18时31分]"
         },
         {
           "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
@@ -147,9 +160,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
+        },
+        {
+          "title": "市场预计最高法院维持特朗普关税的概率仅剩30% 为什么说这不是什么好事",
+          "url": "https://wallstreetcn.com/premium/articles/3758757?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "据Politico：特朗普的高级顾问表示，总统明年将专注于可负担性问题。",
@@ -158,7 +182,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         },
@@ -185,6 +209,17 @@
           "time_info": "06时26分"
         },
         {
+          "title": "特朗普为何呼吁改革选举制度",
+          "url": "https://www.toutiao.com/trending/7569486558500228659/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "高通第四财季调整后营收112.7亿美元，分析师预期107.7亿美元。 预计全年资本开支11.9亿美元，分析师预期11.8亿美元。 因（美国总统特朗普的）税收政策而一次性计提57亿美元，这将使得长期税率降低。 预计第一财季营收118亿-126亿美元，分析师预期115.9亿美元。",
           "url": "https://wallstreetcn.com/livenews/3000098",
           "source": "华尔街见闻-快讯",
@@ -199,7 +234,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -219,7 +254,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         },
@@ -230,9 +265,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
+        },
+        {
+          "title": "Coherent美股盘前涨超15%，公司第一财季业绩好于预期",
+          "url": "https://wallstreetcn.com/livenews/3000501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "敏感时刻，美股警报连连！著名估值指标“史上第二次”突破红线，上一次是1999年",
@@ -263,7 +309,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         },
@@ -288,6 +334,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "多邻国美股盘前跌超21%，第四季度预订量指引不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3000481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "Doordash美股盘后下跌20%，该公司业绩欠佳，预计将继续（扩大）开支。",
@@ -358,6 +415,56 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "市场消息：谷歌(GOOG.O)同意从巴西植树造林初创企业Mombak购买20万吨碳排放额度。",
+          "url": "https://flash.jin10.com/detail/20251106180054572800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：（即将宣布的在德国）投资将涵盖基础设施、数据中心以及利用可再生能源和余热的项目。",
+          "url": "https://flash.jin10.com/detail/20251106174631511800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：将于下周二宣布公司在德国的最大一笔投资。",
+          "url": "https://flash.jin10.com/detail/20251106174536782800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "知情人士：谷歌正进行初步洽谈，拟加大对Anthropic投资。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3000270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
@@ -379,7 +486,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         },
@@ -416,28 +523,12 @@
           "url": "https://wallstreetcn.com/articles/3758696",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "知情人士：谷歌正进行初步洽谈，拟加大对Anthropic投资。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3000270",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 18时31分]"
         }
       ]
     },
