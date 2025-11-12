@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T18:30:56.408062+08:00",
-  "total_titles_processed": 773,
+  "generated_at": "2025-11-12T22:28:28.692406+08:00",
+  "total_titles_processed": 960,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普宣布美国不再资助乌克兰",
@@ -39,6 +39,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 06时26分]"
+        },
+        {
+          "title": "Ken Griffin（城堡创始人）、孙正义（日本软银集团CEO）被邀请与美国总统特朗普共同进餐。 财长贝森特和商务部长卢特尼克也收到与高管们共餐的邀请。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3003486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "据CBS：Citadel首席执行官肯·格里芬和软银集团创办人孙正义受邀参加特朗普与高管的晚宴。财长贝森特和商务部长卢特尼克也将出席。",
+          "url": "https://flash.jin10.com/detail/20251112221633642800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "释新闻｜高管连续辞职、被特朗普索赔：BBC为何陷入数十年来最大危机",
@@ -126,7 +148,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
         },
@@ -140,6 +162,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "特朗普致信以色列总统 呼吁赦免内塔尼亚胡",
+          "url": "https://wallstreetcn.com/livenews/3003469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "瑞银：特朗普提出的50年期抵押贷款将使整个贷款期的利息成本翻倍",
@@ -170,9 +203,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
+        },
+        {
+          "title": "美国财长贝森特：关税分红有很多选择。 关税分红正在讨论中，尚未做出决定。 特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税。 希望引进熟练技术工进行3-7年的培训。 海外工作者可以培训美国人，然后回国。",
+          "url": "https://wallstreetcn.com/livenews/3003465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "特朗普回应高市早苗涉台言论",
@@ -197,6 +241,17 @@
           "time_info": "06时26分"
         },
         {
+          "title": "美国财长：特朗普很快会采取降低咖啡和香蕉价格的重大措施",
+          "url": "https://wallstreetcn.com/livenews/3003461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "据华尔街日报：知情人士透露，房利美监督人员正在调查特朗普任命的联邦住房金融局局长普尔特是否不当获取了包括纽约总检察长在内的关键民主党官员的抵押贷款记录。消息人士称，对普尔特的调查已升级至监察长，并已移交检察官。",
           "url": "https://flash.jin10.com/detail/20251112045606789800",
           "source": "金十数据",
@@ -214,7 +269,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
         },
@@ -233,7 +288,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
@@ -245,6 +300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3003475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
@@ -275,7 +341,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
         },
@@ -327,7 +393,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
@@ -364,6 +430,17 @@
           "time_info": "06时26分"
         },
         {
+          "title": "OpenAI：继续提出上诉请求。",
+          "url": "https://flash.jin10.com/detail/20251112221354413800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
           "url": "https://www.cls.cn/detail/2197744",
           "source": "财联社热门",
@@ -373,6 +450,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "OpenAI：需求并未影响ChatGPT企业客户。",
+          "url": "https://flash.jin10.com/detail/20251112221303685800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "OpenAI：纽约时报要求移交对话内容侵犯了隐私。",
+          "url": "https://flash.jin10.com/detail/20251112221138478800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "AMD：预计毛利润率将介于55%-58%。 预计未来三年EPS将超过20美元。 预计数据中心增速将在短期内加快。 将为了支持增长目标而获得足够的供应。 在与OpenAI合作时非常“训练有素/遵守纪律”。 与OpenAI的协议包括具体的生产计划。 公司CEO不会对赌OpenAI。 云客户有非常清晰的预测。",
@@ -393,23 +492,24 @@
       "titles": [
         {
           "title": "前DeepSeek研究员罗福莉已加入小米",
+          "url": "https://www.toutiao.com/trending/7571465266493702187/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 22时28分]"
+        },
+        {
+          "title": "前DeepSeek研究员罗福莉已加入小米",
           "url": "https://www.baidu.com/s?wd=%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3",
           "source": "百度热搜",
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时30分"
-        },
-        {
-          "title": "前DeepSeek研究员罗福莉已加入小米",
-          "url": "https://www.toutiao.com/trending/7571465266493702187/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
         }
@@ -440,6 +540,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3759125",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 22时28分]"
+        },
+        {
+          "title": "美债收益率和美元上涨 市场焦点转向积压经济数据",
+          "url": "https://flash.jin10.com/detail/20251112220357212800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         }
       ]
     },
@@ -482,26 +610,26 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "伊朗",
       "match_count": 1,
       "titles": [
         {
-          "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
-          "url": "https://wallstreetcn.com/articles/3759125",
-          "source": "华尔街见闻",
+          "title": "伊朗外交部：伊朗外交部长阿拉格奇今天与俄罗斯外交部长拉夫罗夫通电话，讨论并交换了对地区和国际局势的最新看法。",
+          "url": "https://flash.jin10.com/detail/20251112220731567800",
+          "source": "金十数据",
           "ranks": [
-            1
+            19
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 18时30分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         }
       ]
     }
