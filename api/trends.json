@@ -1,7 +1,21 @@
 {
-  "generated_at": "2025-11-18T18:30:58.222887+08:00",
+  "generated_at": "2025-11-18T22:31:22.191585+08:00",
   "total_titles_processed": 796,
-  "failed_sources": [],
+  "failed_sources": [
+    "toutiao",
+    "baidu",
+    "wallstreetcn-hot",
+    "thepaper",
+    "bilibili-hot-search",
+    "cls-hot",
+    "ifeng",
+    "jin10",
+    "wallstreetcn-quick",
+    "tieba",
+    "weibo",
+    "douyin",
+    "zhihu"
+  ],
   "trends": [
     {
       "keyword_group": "特朗普",
@@ -208,7 +222,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
         }
@@ -288,7 +302,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
         }
