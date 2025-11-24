@@ -1,296 +1,425 @@
 {
-  "generated_at": "2025-11-24T22:28:41.827937+08:00",
-  "total_titles_processed": 963,
+  "generated_at": "2025-11-25T06:26:07.942178+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "习近平同特朗普通电话",
+          "url": "https://www.toutiao.com/trending/7576299047473397779/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 06时26分]"
+        },
+        {
+          "title": "习近平同特朗普通电话",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 06时26分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 06时26分]"
+        },
         {
           "title": "美乌日内瓦会谈，美方称“取得良好进展”，特朗普发帖猛喷欧乌，泽连斯基立刻“致谢”",
           "url": "https://wallstreetcn.com/articles/3759963",
           "source": "华尔街见闻",
           "ranks": [
-            5,
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时39分 ~ 22时28分]"
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 06时26分]"
         },
         {
-          "title": "特朗普猛烈抨击：基辅方面“毫无感激之情”",
-          "url": "https://news.ifeng.com/c/8oWeN8vWETi",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
-          "title": "据知情人士透露，美国与乌克兰讨论本周将乌总统泽连斯基带到美国。 特朗普政府希望，在感恩节（11月27日）之前达成协议。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3009188",
-          "source": "华尔街见闻-快讯",
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://wallstreetcn.com/articles/3760029",
+          "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
-          "title": "特朗普28条能让俄乌停战吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE28%E6%9D%A1%E8%83%BD%E8%AE%A9%E4%BF%84%E4%B9%8C%E5%81%9C%E6%88%98%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
-          "title": "曝特朗普最后一刻才知28点计划内容",
-          "url": "https://www.toutiao.com/trending/7575287851869323300/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时31分 ~ 22时28分]"
+          "time_info": "[06时25分 ~ 06时26分]"
         },
         {
-          "title": "详解特朗普的28点计划",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%8428%E7%82%B9%E8%AE%A1%E5%88%92",
-          "source": "bilibili 热搜",
+          "title": "美对委“炮舰外交”或现缓和信号 特朗普计划与马杜罗直接对话",
+          "url": "https://flash.jin10.com/detail/20251125061314901800",
+          "source": "金十数据",
           "ranks": [
-            6
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时31分"
+          "time_info": "06时26分"
         },
         {
-          "title": "泽连斯基：感谢美国，感谢特朗普",
-          "url": "https://news.ifeng.com/c/8oXC4wZBeGO",
-          "source": "凤凰网",
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://www.douyin.com/hot/2316851",
+          "source": "抖音",
           "ranks": [
-            9
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32017617",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时25分"
+          "time_info": "06时26分"
         },
         {
           "title": "泽连斯基直面“28点”：历史性艰难抉择在即，还要对特朗普说谢谢",
           "url": "https://m.thepaper.cn/newsDetail_forward_32029092",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时28分"
+          "time_info": "06时26分"
         },
         {
-          "title": "美国国务卿鲁比奥：特朗普对我们今天向他提供的会谈报告感到满意。",
-          "url": "https://flash.jin10.com/detail/20251124041441751800",
+          "title": "美国白宫：美国总统特朗普签署行政命令，以推动人工智能加速创新，并指示构建人工智能平台，以利用联邦科学数据集。",
+          "url": "https://flash.jin10.com/detail/20251125060430409800",
           "source": "金十数据",
           "ranks": [
-            17
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时25分"
+          "time_info": "06时26分"
         },
         {
-          "title": "乌克兰总统泽连斯基：与美国代表进行对话是件好事，有迹象表明，美国总统特朗普的团队“听到了我们的声音”。",
-          "url": "https://flash.jin10.com/detail/20251124040847744800",
+          "title": "据AXIOS网站：美国总统特朗普已告知其顾问，他正计划直接与委内瑞拉总统马杜罗对话。",
+          "url": "https://flash.jin10.com/detail/20251125060154130800",
           "source": "金十数据",
           "ranks": [
-            21
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时25分"
+          "time_info": "06时26分"
         },
         {
-          "title": "美国国务卿鲁比奥：最后期限是我们希望尽快完成此事（俄乌28点计划），最好能在周四前完成。美国总统特朗普与乌克兰总统泽连斯基之间有可能通话；我们拭目以待。",
-          "url": "https://flash.jin10.com/detail/20251124040841575800",
+          "title": "美国总统特朗普告诉他的顾问们，他打算与委内瑞拉总统马杜罗通电话。 相关计划仍然处于“筹备阶段”。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3009781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "曝特朗普最后一刻才知28点计划内容",
+          "url": "https://www.toutiao.com/trending/7575287851869323300/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 06时26分]"
+        },
+        {
+          "title": "“跌疯了”的币圈“阴谋论满天飞”：美国政府“抢钱”，华尔街“做空”，甚至是“摩根大通大战特朗普”",
+          "url": "https://wallstreetcn.com/articles/3760011",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 06时26分]"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普签署了与人工智能研究相关的行政命令。",
+          "url": "https://flash.jin10.com/detail/20251125055922632800",
           "source": "金十数据",
           "ranks": [
-            22
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时25分"
+          "time_info": "06时26分"
         },
         {
-          "title": "特朗普顾问哈塞特：新的美联储领导层可能会降息",
-          "url": "https://wallstreetcn.com/livenews/3009151",
+          "title": "特朗普政府力阻马斯克为“解散美国国际开发署”案出庭作证",
+          "url": "https://flash.jin10.com/detail/20251125055653747800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "美乌和谈现突破后压力传至莫斯科 俄方拒接方案或再遭特朗普指责",
+          "url": "https://flash.jin10.com/detail/20251125055012060800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "美国白宫：特朗普启动程序，将部分穆斯林兄弟会分支机构列为外国恐怖主义组织和特别指定的全球恐怖分子。",
+          "url": "https://flash.jin10.com/detail/20251125051834696800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "泽连斯基发文感谢特朗普",
+          "url": "https://www.douyin.com/hot/2316213",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普一直在对俄罗斯总统普京和乌克兰总统泽连斯基施加压力。",
+          "url": "https://wallstreetcn.com/livenews/3009755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "美国白宫发言人：特朗普在俄乌冲突中偏袒一方的说法不属实。",
+          "url": "https://flash.jin10.com/detail/20251125044304075800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国与乌克兰在上周末进行了富有成效的会谈。 美国总统特朗普仍然对达成俄乌和平协议的可能性持乐观态度。 在乌克兰（和平协议）问题上，只剩下几点分歧了。 美国向北约出售成吨的武器，不能永远那样做。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3009752",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时25分"
+          "time_info": "06时26分"
         },
         {
-          "title": "乌克兰总统泽连斯基办公室副主任Brusylo：谈判将在未来几天继续进行。 谈判将在工作组层面继续进行。 乌克兰加入北约的可能性并未完全排除。 泽连斯基和特朗普将最终敲定领土问题的想法。",
-          "url": "https://wallstreetcn.com/livenews/3009492",
-          "source": "华尔街见闻-快讯",
+          "title": "美国白宫发言人：特朗普对打击“贩毒恐怖分子”的行动感到满意。",
+          "url": "https://flash.jin10.com/detail/20251125043457425800",
+          "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时31分"
+          "time_info": "06时26分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "美股高开，中概指数早盘涨超2%跑赢大盘，比特币持续位于8.7万美元下方",
+          "url": "https://wallstreetcn.com/articles/3759998",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 06时26分]"
+        },
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
           "url": "https://wallstreetcn.com/articles/3759968",
           "source": "华尔街见闻",
           "ranks": [
-            3,
-            4
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时31分 ~ 22时28分]"
+          "time_info": "[06时25分 ~ 06时26分]"
         },
         {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3009649",
+          "title": "（美股）费城金银指数收涨5.51%，报299.78点。 纽约证交所ARCA金矿开采商指数收涨4.86%，报2163.29点，北京时间22:30美股开盘之前维持微幅上涨状态、持续交投于2070点附近，随后迅速扩大涨幅，并持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3009777",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时28分"
+          "time_info": "06时26分"
         },
         {
-          "title": "美股期货延续涨势，欧股上涨，黄金下跌0.2%，比特币月内创三年最差表现",
-          "url": "https://wallstreetcn.com/articles/3759998",
-          "source": "华尔街见闻",
+          "title": "周一（11月24日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨5.13%，报88940美元，日内交投于85200-89240美元区间。 CME以太币期货DCR主力合约涨7.24%，报2969.50美元，日内交投于2764.50-2987.50美元区间。 美股加密货币与加密货币关联指数涨11.00%，报64.60点，跳空高开之后持续走高。 最近24小时，MarketVector数字资产100小盘指数涨2%，暂报18562.84点，北京时间22:50刷新日低至17700.27点，之后持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3009775",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时28分"
+          "time_info": "06时26分"
         },
         {
-          "title": "美股盘前：中概股、科技股普涨",
-          "url": "https://wallstreetcn.com/livenews/3009505",
+          "title": "降息预期重燃市场信心 美股三大期指集体走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2209422",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "半导体ETF收涨将近4%，领跑美股行业ETF，标普电信板块涨超3.9%",
+          "url": "https://wallstreetcn.com/livenews/3009774",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "周一（11月24日），美股人工智能（AI）赢家指数涨4.06%，报275.03点。 AI 100指数涨3.39%。 AI电力指数涨3.33%，AI风险指数跌0.56%，AI风险敞口半导体指数涨5.59%。",
+          "url": "https://wallstreetcn.com/livenews/3009770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "金十图示：2025年11月24日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251125050629924800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "金十图示：2025年11月24日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251125050520330800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时31分"
+          "time_info": "06时26分"
+        },
+        {
+          "title": "美股收盘：三大股指齐升 金龙指数涨近3%",
+          "url": "https://flash.jin10.com/detail/20251125050102306800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "Gartner最新报告：阿里云在生成式AI四大维度全栈领先，比肩谷歌、OpenAI",
-          "url": "https://wallstreetcn.com/livenews/3009336",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "Gemini3.0炸裂玩法合集",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E7%82%B8%E8%A3%82%E7%8E%A9%E6%B3%95%E5%90%88%E9%9B%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
-          "title": "谷歌母公司Alphabet盘前涨幅扩大至高达4.1%。",
-          "url": "https://flash.jin10.com/detail/20251124211321112800",
+          "title": "谷歌大涨美股反弹，专家警示假期交易清淡或放大波动",
+          "url": "https://flash.jin10.com/detail/20251125052238827800",
           "source": "金十数据",
           "ranks": [
-            29
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时28分"
+          "time_info": "06时26分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收涨超6.8%，谷歌A涨6.3%",
+          "url": "https://wallstreetcn.com/livenews/3009767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 3,
+      "keyword_group": "美元",
+      "match_count": 2,
       "titles": [
         {
-          "title": "伊朗谴责国际原子能机构理事会反伊决议",
-          "url": "https://flash.jin10.com/detail/20251124120859166800",
+          "title": "美元指数24日下跌",
+          "url": "https://flash.jin10.com/detail/20251125043627852800",
           "source": "金十数据",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "法国外交部：伊朗外交部长将于11月26日在巴黎举行会谈。",
-          "url": "https://flash.jin10.com/detail/20251124220428935800",
-          "source": "金十数据",
-          "ranks": [
-            3
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时28分"
+          "time_info": "06时26分"
         },
         {
-          "title": "伊朗谴责国际原子能机构理事会反伊决议",
-          "url": "https://wallstreetcn.com/livenews/3009344",
+          "title": "周一（11月24日）纽约尾盘，ICE美元指数跌0.03%，报100.150点，日内交投区间为100.297-100.011点。 彭博美元指数涨0.02%，报1226.64点，日内交投区间为1225.27-1227.98点。",
+          "url": "https://wallstreetcn.com/livenews/3009750",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时39分"
+          "time_info": "06时26分"
         }
       ]
     },
@@ -303,29 +432,28 @@
           "url": "https://www.cls.cn/detail/2208933",
           "source": "财联社热门",
           "ranks": [
-            4,
             3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 22时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "美债",
       "match_count": 1,
       "titles": [
         {
-          "title": "金十图示：2025年11月24日（周一）上海金早盘价为924.85元/克，较国际金价(924.38元/克)，高0.47元/克",
-          "url": "https://flash.jin10.com/detail/20251124110330638800",
-          "source": "金十数据",
+          "title": "美债收益率全面下跌",
+          "url": "https://wallstreetcn.com/livenews/3009761",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时39分"
+          "time_info": "06时26分"
         }
       ]
     }
