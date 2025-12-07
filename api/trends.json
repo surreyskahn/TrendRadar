@@ -1,12 +1,34 @@
 {
-  "generated_at": "2025-12-07T06:25:24.262174+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-07T12:37:14.461350+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "美国发生特大诈骗案 特朗普怒批",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8F%91%E7%94%9F%E7%89%B9%E5%A4%A7%E8%AF%88%E9%AA%97%E6%A1%88+%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E6%89%B9",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 12时37分]"
+        },
+        {
+          "title": "美防长：特朗普政府将“把国家实际利益放在首位”",
+          "url": "https://flash.jin10.com/detail/20251207122838853800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
         {
           "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
           "url": "https://www.zhihu.com/question/1979570545172423754",
@@ -101,11 +123,12 @@
           "url": "https://www.cls.cn/detail/2221625",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时25分"
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 12时37分]"
         }
       ]
     },
@@ -118,11 +141,12 @@
           "url": "https://wallstreetcn.com/articles/3760844",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时25分"
+          "appearance_count": 3,
+          "time_info": "[06时25分 ~ 12时37分]"
         }
       ]
     }
