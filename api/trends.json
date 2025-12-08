@@ -1,341 +1,336 @@
 {
-  "generated_at": "2025-12-08T22:31:19.894731+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2025-12-09T06:27:12.600709+08:00",
+  "total_titles_processed": 316,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 16,
       "titles": [
         {
-          "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
-          "url": "https://news.ifeng.com/c/8ov552jltTT",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时30分 ~ 22时31分]"
-        },
-        {
-          "title": "特朗普长子：特朗普或退出乌和平进程",
-          "url": "https://www.toutiao.com/trending/7581096689352572934/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-08）",
-          "url": "https://flash.jin10.com/detail/20251208180135739800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "特朗普政府免除西南航空公司1100万美元罚款",
-          "url": "https://flash.jin10.com/detail/20251208053436110800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "特朗普称对泽连斯基感到失望",
-          "url": "https://www.toutiao.com/trending/7581294692906716710/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            21,
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时39分 ~ 22时31分]"
-        },
-        {
-          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
-          "url": "https://wallstreetcn.com/articles/3760897",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时32分 ~ 22时31分]"
-        },
-        {
-          "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32124875",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 12时39分]"
-        },
-        {
-          "title": "特朗普获国际足联和平奖",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 12时39分]"
-        },
-        {
-          "title": "特朗普：我对泽连斯基有点失望",
-          "url": "https://news.ifeng.com/c/8ouaNf4xAJD",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "贝森特：不会限制儿童使用“特朗普账户”的方式",
-          "url": "https://flash.jin10.com/detail/20251208051409167800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "特朗普长子批乌政府“送穷人上前线，窃取西方资金”",
-          "url": "https://news.ifeng.com/c/8ou4WvyPNGq",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "内塔尼亚胡：加沙停火第二阶段很快开始，将于本月与特朗普会面",
-          "url": "https://flash.jin10.com/detail/20251208050814205800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "分析师：Netflix收购华纳面临反垄断压力 特朗普言论引发担忧",
-          "url": "https://flash.jin10.com/detail/20251208174011180800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "以总统拒绝特朗普“求情”",
-          "url": "https://news.ifeng.com/c/8ouFkJCiRc4",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特（谈特朗普的人工智能“单一规则”）：该行政命令将帮助人工智能公司明确规则是什么。",
-          "url": "https://wallstreetcn.com/livenews/3017019",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
-        },
-        {
-          "title": "网飞与华纳达成收购协议，特朗普警告",
-          "url": "https://news.ifeng.com/c/8oucdTKBlFd",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "特朗普政府战略调整，赖清德当局战略冒进",
-          "url": "https://news.ifeng.com/c/8ouw16T8NSP",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "特朗普：本周将针对人工智能发布单一规则行政命令",
-          "url": "https://wallstreetcn.com/livenews/3017015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特（谈美联储）：特朗普有很多不错的选择。 如果我必须成为那个选择，我会很高兴帮助他。",
-          "url": "https://wallstreetcn.com/livenews/3017012",
+          "title": "周一（12月8日，美联储政策利率会议开幕前一天），降息赢家指数跌1.05%，报97.78点。 “特朗普关税输家”指数跌1.50%，散户抱团概念股指数/迷因股（meme stock）指数大致持平。",
+          "url": "https://wallstreetcn.com/livenews/3017166",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时31分"
+          "time_info": "06时27分"
         },
         {
-          "title": "特朗普长子：特朗普可能会因乌克兰的腐败丑闻而退出俄乌和平谈判",
-          "url": "https://flash.jin10.com/detail/20251208041940775800",
+          "title": "白宫高级官员表示，美国总统特朗普致力于持续停止暴力，并期望柬埔寨和泰国政府充分履行其结束这场冲突的承诺。",
+          "url": "https://flash.jin10.com/detail/20251209045331690800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时24分"
+          "time_info": "06时27分"
         },
         {
-          "title": "特朗普：美国还有其他方式征收关税 目前的方法要直接得多",
-          "url": "https://flash.jin10.com/detail/20251208041606128800",
+          "title": "特朗普政府希望航空公司和机场提供更健康的食品。",
+          "url": "https://flash.jin10.com/detail/20251209044608287800",
           "source": "金十数据",
           "ranks": [
-            18
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时24分"
+          "time_info": "06时27分"
         },
         {
-          "title": "特朗普计划周一宣布一项120亿美元的农业援助计划。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3016665",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普女婿库什纳参与派拉蒙对华纳兄弟的竞购",
+          "url": "https://flash.jin10.com/detail/20251209043702412800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "市场消息：特朗普表示欧洲正朝着一些不好的方向发展。",
+          "url": "https://flash.jin10.com/detail/20251209043642647800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "美国总统特朗普：尚未就派拉蒙收购案与库什纳（特朗普女婿）交流。",
+          "url": "https://flash.jin10.com/detail/20251209042938587800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "美国总统特朗普：我想做正确的事。奈飞和派拉蒙都不是我的朋友。我得看看奈飞和派拉蒙的市场份额占比。",
+          "url": "https://flash.jin10.com/detail/20251209042850771800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "美国总统特朗普谈疫苗：我们正在研究很多方面。",
+          "url": "https://flash.jin10.com/detail/20251209042735171800",
+          "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "特朗普正考虑解雇美国土安全部长诺姆？白宫否认",
-          "url": "https://wallstreetcn.com/livenews/3016887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "以色列政府发言人表示，以色列总理内塔尼亚胡将于12月29日会见美国总统特朗普。",
-          "url": "https://flash.jin10.com/detail/20251208214026144800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3017028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
+          "time_info": "06时27分"
         },
         {
-          "title": "美股三大期指涨跌不一 黄仁勋不满美国基建速度 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2223257",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
-        },
-        {
-          "title": "摩根大通：美联储降息后美股涨势可能停滞",
-          "url": "https://wallstreetcn.com/livenews/3016901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-12-08）",
-          "url": "https://flash.jin10.com/detail/20251208214838050800",
+          "title": "美国总统特朗普：欧盟对社交媒体平台“X”的罚款是“卑鄙的做法”。",
+          "url": "https://flash.jin10.com/detail/20251209042652565800",
           "source": "金十数据",
           "ranks": [
             26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时31分"
+          "time_info": "06时27分"
         },
         {
-          "title": "摩根士丹利重申看好美股前景，因美联储降息预期",
-          "url": "https://wallstreetcn.com/livenews/3016884",
+          "title": "美国总统特朗普：我对Paramount敌意收购华纳兄弟探索公司的情况了解得不够多。 必须看看Paramount的市场份额。 还没有与库什纳讨论过Paramount的交易问题。 奈飞和Paramount都不是我的好朋友。",
+          "url": "https://wallstreetcn.com/livenews/3017148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "美国总统特朗普：在医疗保健方面，我希望把钱直接发给民众。",
+          "url": "https://flash.jin10.com/detail/20251209042439691800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "美国总统特朗普：我认为欧盟对X（原推特）罚款是不对的。 欧洲必须非常谨慎（小心）。 “稍晚”将谈及欧盟这个罚款问题。",
+          "url": "https://wallstreetcn.com/livenews/3017147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "美国总统特朗普：希望人们有钱购买医疗保险。",
+          "url": "https://wallstreetcn.com/livenews/3017146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "美国驻加拿大大使：特朗普不想终止美墨加协定。",
+          "url": "https://flash.jin10.com/detail/20251209042238279800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "美国总统特朗普：如果我们不得不这么做，我们将最终对来自加拿大的化肥征收高额关税。",
+          "url": "https://flash.jin10.com/detail/20251209041854398800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "特朗普：美国不会出现通缩",
+          "url": "https://wallstreetcn.com/livenews/3017143",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时32分"
+          "time_info": "06时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "静待美联储决议，美股高开，10年期日债收益率创18年新高，铜价再创新高",
+          "url": "https://wallstreetcn.com/articles/3760903",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 06时27分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)美股盘后涨幅扩大至2.2%。",
+          "url": "https://flash.jin10.com/detail/20251209054521705800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "周一（12月8日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨2.01%，报91405美元。 CME以太币期货DCR主力合约涨4.13%，报3154.50美元。 美股加密货币与加密货币关联指数涨1.91%，报70.39点。 最近24小时，MarketVector数字资产100小盘指数涨2.69%，暂报4159.64点。",
+          "url": "https://wallstreetcn.com/livenews/3017179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "（美股）费城金银指数收跌2.34%，报311.01点。 （全球时段）纽约证交所ARCA金矿开采商指数收跌2.17%，刷新日低至2235.45点；美股开盘之前维持微跌状态——持稳于2280点附近，之后转而短暂地微幅上涨。",
+          "url": "https://wallstreetcn.com/livenews/3017176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "美股三大期指涨跌不一 黄仁勋不满美国基建速度 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2223257",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "英伟达美股盘后涨1.4%。英特尔涨0.37%，AMD涨0.67%。",
+          "url": "https://wallstreetcn.com/livenews/3017174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "可选消费ETF收跌超1.4%，领跌美股行业ETF，半导体ETF涨超1.1%",
+          "url": "https://wallstreetcn.com/livenews/3017172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "金十图示：2025年12月08日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251209050623264800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "金十图示：2025年12月08日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251209050617161800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "周一（12月8日），彭博电动汽车价格回报指数涨1.11%，报3465.35点。 亚太盘初持续走高，北京时间14:35刷新日高至3479.12点，之后持续高位震荡；美股开盘后回吐部分涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3017165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "美股收盘：三大股指收跌 特斯拉跌超3%",
+          "url": "https://flash.jin10.com/detail/20251209050046236800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "周一（12月8日）纽约尾盘，欧元兑美元大致持平，报1.1641，亚太尾盘涨至1.1672刷新日高，之后震荡走低，美股盘初显著下跌，欧股收盘前刷新日低至1.1617。",
+          "url": "https://wallstreetcn.com/livenews/3017155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "周一（12月8日）纽约尾盘，ICE美元指数涨0.11%，报99.102点，日内交投区间为98.794-99.227点，美股开盘后出现一波显著的上涨行情。 彭博美元指数涨0.12%，报1213.90点，日内交投区间为1210.34-1214.88点。",
+          "url": "https://wallstreetcn.com/livenews/3017150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         }
       ]
     },
@@ -344,83 +339,65 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "后浪卷死前浪？“谷歌链”年内涨幅已快接近“OpenAI链”的两倍",
-          "url": "https://www.cls.cn/detail/2222331",
+          "title": "全球市值最高电力股同日官宣谷歌、Meta新合作",
+          "url": "https://www.cls.cn/detail/2223271",
           "source": "财联社热门",
           "ranks": [
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 18时32分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)计划到2027年生产超过500万个TPU以增加供应。",
-          "url": "https://flash.jin10.com/detail/20251208040048349800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "谷歌云与NextEra Energy达成协议 开发配套电力设施的数据中心园区",
-          "url": "https://flash.jin10.com/detail/20251208214111777800",
-          "source": "金十数据",
-          "ranks": [
-            29
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时31分"
+          "time_info": "06时27分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收跌约3.4%，谷歌A跌约2.3%，英伟达涨超1.7%",
+          "url": "https://wallstreetcn.com/livenews/3017167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "Warby Parker与谷歌将于2026年推出AI智能眼镜",
+          "url": "https://wallstreetcn.com/livenews/3017156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
         {
-          "title": "美军通过“逆向工程”仿造出“伊朗自杀式无人机”",
-          "url": "https://news.ifeng.com/c/8oudl9nDPWz",
-          "source": "凤凰网",
+          "title": "梁文锋入选《自然》年度十大科学人物",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E5%85%A5%E9%80%89%E3%80%8A%E8%87%AA%E7%84%B6%E3%80%8B%E5%B9%B4%E5%BA%A6%E5%8D%81%E5%A4%A7%E7%A7%91%E5%AD%A6%E4%BA%BA%E7%89%A9",
+          "source": "百度热搜",
           "ranks": [
-            8
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 06时27分]"
         },
         {
-          "title": "伊朗诈骗案主谋获死刑，受害者达数万人，涉及金额约3.5亿美元",
-          "url": "https://news.ifeng.com/c/8ousuwo2uQb",
+          "title": "梁文锋、杜梦然上榜！《自然》公布2025年度十大科学人物",
+          "url": "https://tech.ifeng.com/c/8ovZfiG4ies",
           "source": "凤凰网",
           "ranks": [
-            12
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【金十数据整理：周日重要消息汇总】 国内新闻： <span class=\"section-news\">1. 北京大兴机场年旅客吞吐量首次突破5000万人次。</span> <span class=\"section-news\">2. 2025医保药品目录公布：新增药品114种，50种为1类创新药。</span> <span class=\"section-news\">3. 辽宁舰正常训练遭日机滋扰，中国海军严正要求日方停止污蔑抹黑。</span> <span class=\"section-news\">4. 百度：正就分拆昆仑芯进行上市进行评估，并不保证分拆及上市将会进行。</span> <span class=\"section-news\">5. 中国驻日大使就日本自卫队飞机滋扰中国海军航母编队训练提出严正交涉。</span> <span class=\"section-news\">6. 中国央行：中国11月末黄金储备报7412万盎司，环比增加3万盎司，为连续第13个月增持黄金。</span> <span class=\"section-news\">7. 五粮液回应核心单品价格降至900元每瓶：第八代五粮液出厂价并未调整，市场所传“降价”，实为公司相关补贴支持政策落地后的价格变化。</span> 国际新闻： <span class=\"section-news\">1. 瑞银拟在2027年前再削减万名职位。</span> <span class=\"section-news\">2. 泽连斯基：本周俄向乌发射超1600架无人机。</span> <span class=\"section-news\">3. 以色列总理内塔尼亚胡拒绝退出政坛换取赦免。</span> <span class=\"section-news\">4. 尼日利亚外长：尼寻求成为金砖国家正式成员。</span> <span class=\"section-news\">5. 泰柬边境再发冲突，泰称两人受伤，柬称未还击。</span> <span class=\"section-news\">6. 消息人士：欧盟委员会可能会在12月16日宣布一项支持汽车行业的一揽子计划。</span>",
-          "url": "https://flash.jin10.com/detail/20251207230000001800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时24分"
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 06时27分]"
         }
       ]
     }
