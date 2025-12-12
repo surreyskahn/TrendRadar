@@ -1,56 +1,33 @@
 {
-  "generated_at": "2025-12-12T22:25:59.890701+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2025-12-13T06:27:40.871348+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 7,
       "titles": [
         {
-          "title": "白宫：特朗普对俄乌都很失望",
-          "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "特朗普政府在加州边境建立新的军事化区域",
-          "url": "https://flash.jin10.com/detail/20251212061317117800",
+          "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
+          "url": "https://flash.jin10.com/detail/20251213034901959800",
           "source": "金十数据",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时28分"
+          "time_info": "06时27分"
         },
         {
-          "title": "印第安纳州否决选区重划方案，特朗普遭遇重大打击",
-          "url": "https://flash.jin10.com/detail/20251212061240422800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
-          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
+          "title": "泽连斯基：特朗普让我们撤离乌东，他要建“自由经济区”",
+          "url": "https://news.ifeng.com/c/8p1vHCZebHh",
           "source": "凤凰网",
           "ranks": [
-            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 22时25分]"
+          "appearance_count": 1,
+          "time_info": "06时27分"
         },
         {
           "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
@@ -60,309 +37,113 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 22时25分]"
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "白宫“加密和AI沙皇”为特朗普AI法规站场，称其旨在减轻企业合规负担",
+          "url": "https://flash.jin10.com/detail/20251213031516659800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         },
         {
           "title": "特朗普拉小群,想拿C5替代G7",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
           "source": "贴吧",
           "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 22时25分]"
-        },
-        {
-          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1982382027627073644",
-          "source": "知乎",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 18时31分]"
-        },
-        {
-          "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
-          "url": "https://news.ifeng.com/c/8p0EFlr6GTe",
-          "source": "凤凰网",
-          "ranks": [
-            7
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时28分"
+          "time_info": "06时27分"
         },
         {
-          "title": "据美国财经媒体Semafor：参议院民主党人很可能阻止特朗普青睐的Halligan获得检察官任命。",
-          "url": "https://flash.jin10.com/detail/20251212181225814800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
-          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
-          "url": "https://www.cls.cn/detail/2227581",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
-          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
-          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "美国印第安纳州由共和党掌控的参议院否决了美国总统特朗普支持的国会选区重划方案。",
-          "url": "https://flash.jin10.com/detail/20251212054106500800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-12）",
-          "url": "https://flash.jin10.com/detail/20251212180819181800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
-          "title": "周四（12月11日，美联储降息次日），降息赢家指数涨0.91%，报101.10点。 “特朗普关税输家”指数涨1.72%。 散户抱团概念股指数/迷因股（meme stock）指数涨0.11%。",
-          "url": "https://wallstreetcn.com/livenews/3019416",
+          "title": "美国总统特朗普在办公室表示：倾向于让沃什或哈塞特担任美联储主席。 沃什现在处于美联储主席候选人清单的顶端。 下一任美联储主席应该就利率问题征求我的意见。 今后一年，利率应当在1%或更低。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3020133",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时28分"
+          "time_info": "06时27分"
         },
         {
-          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "特朗普称美对委行动很快将延伸至陆地",
-          "url": "https://www.toutiao.com/trending/7582515717653315611/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "泰国总理：与美国总统特朗普的通话定于泰国时间晚上9:20（北京时间22:20）举行。",
-          "url": "https://flash.jin10.com/detail/20251212111451238800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
-          "url": "https://wallstreetcn.com/articles/3761091",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "美股收盘：道指、标普携手刷新收盘纪录 甲骨文拖累纳指走低",
-          "url": "https://www.cls.cn/detail/2227262",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3020018",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
-        },
-        {
-          "title": "周四（12月11日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘涨0.78%，报93510美元，全天U形反转。 CME以太币期货DCR主力合约跌2.56%，报3277美元。 美股加密货币与加密货币关联指数跌0.17%，报71.76点，北京时间22:30跳空低开之后逐步收复失地。 最近24小时，MarketVector数字资产100小盘指数跌2.23%，暂报4071.03点。",
-          "url": "https://wallstreetcn.com/livenews/3019429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "AI泡沫担忧重燃，甲骨文跌16%，美股涨跌不一，金油承压，比特币跌超2%",
-          "url": "https://wallstreetcn.com/articles/3761175",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "（美股）费城金银指数收涨4.53%，报341.39点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨3.63%，报2411.21点，美股开盘之前一直大致持平，之后迅速上涨。",
-          "url": "https://wallstreetcn.com/livenews/3019426",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "博通第四财季调整后净营收180.2亿美元，分析师预期174.7亿美元。 第四财季半导体解决方案营收110.7亿美元，分析师预期107.4亿美元。 第一财季营收大约191亿美元，分析师预期184.8亿美元。 预计AI半导体营收将同比翻倍，至82亿美元。 股息季环比提高10%，至每股0.65美元。 博通股价（AVGO）美股盘后涨4%。",
-          "url": "https://wallstreetcn.com/livenews/3019419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "博通(AVGO.O)美股盘后涨4%。",
-          "url": "https://flash.jin10.com/detail/20251212051638252800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.09%，报7773.37点，美股早盘实现V形反转，日内一般的时间处于微幅上涨状态。 热门中概股里，金山云初步收跌5.4%，Boss直聘跌3.4%，再鼎医药跌2.6%，小鹏跌2.4%，新东方跌1.6%，百度涨1.5%，蔚来涨1.7%，世纪互联涨2.1%，小马智行涨3.1%，阿特斯太阳能涨3.3%。 ETF中，CQQQ跌0.7%，KWEB跌0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3019409",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "金十图示：2025年12月11日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251212050631133800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "金十图示：2025年12月11日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251212050548995800",
+          "title": "美国部分州宣布起诉特朗普H-1B签证申请费用问题",
+          "url": "https://flash.jin10.com/detail/20251213022744229800",
           "source": "金十数据",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时28分"
+          "time_info": "06时27分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "keyword_group": "美股",
+      "match_count": 5,
       "titles": [
         {
-          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
-          "url": "https://wallstreetcn.com/articles/3761213",
+          "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
+          "url": "https://wallstreetcn.com/articles/3761271",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            4
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时39分 ~ 22时25分]"
+          "appearance_count": 1,
+          "time_info": "06时27分"
         },
         {
-          "title": "美股七巨头收盘播报｜谷歌A收跌超2.4%，英伟达跌超1.5%，微软涨1%",
-          "url": "https://wallstreetcn.com/livenews/3019411",
+          "title": "（美股）费城金银指数收跌1.07%，报337.73点，本周累涨6.05%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.27%，报2404.74点，本周累涨5.24%。",
+          "url": "https://wallstreetcn.com/livenews/3020154",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时28分"
+          "time_info": "06时27分"
         },
         {
-          "title": "UP主解读OpenAI和谷歌的AI大战",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
-          "source": "bilibili 热搜",
+          "title": "半导体ETF收跌超4.5%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3020145",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时25分"
+          "time_info": "06时27分"
+        },
+        {
+          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
+          "url": "https://www.cls.cn/detail/2228565",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达收跌约3.3%，特斯拉则涨2.7%",
+          "url": "https://wallstreetcn.com/livenews/3020139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         }
       ]
     },
@@ -371,15 +152,15 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
-          "url": "https://www.cls.cn/detail/2227243",
-          "source": "财联社热门",
+          "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国地区出现故障。",
+          "url": "https://flash.jin10.com/detail/20251213033638415800",
+          "source": "金十数据",
           "ranks": [
-            3
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时39分"
+          "time_info": "06时27分"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -389,19 +170,36 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时39分 ~ 22时25分]"
+          "appearance_count": 1,
+          "time_info": "06时27分"
         },
         {
-          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
-          "url": "https://www.cls.cn/detail/2227268",
-          "source": "财联社热门",
+          "title": "甲骨文发言人声明：对OpenAI的（数据中心）“合同承诺”并没有推迟。 公司对承诺与项目扩建仍然有信心。",
+          "url": "https://wallstreetcn.com/livenews/3020118",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时39分"
+          "time_info": "06时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "UP主解读OpenAI和谷歌的AI大战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         }
       ]
     },
@@ -410,15 +208,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美元指数11日下跌",
-          "url": "https://flash.jin10.com/detail/20251212053829596800",
-          "source": "金十数据",
+          "title": "美元指数连跌三周",
+          "url": "https://wallstreetcn.com/livenews/3020126",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时28分"
+          "time_info": "06时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据伊朗国家媒体报道，伊朗在阿曼湾查获一艘载有600万升走私柴油的外国油轮。",
+          "url": "https://flash.jin10.com/detail/20251213035649501800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         }
       ]
     }
