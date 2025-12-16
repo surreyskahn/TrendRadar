@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T06:44:43.344958+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-16T12:40:57.918836+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 17,
       "titles": [
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时44分"
+        },
+        {
+          "title": "特朗普签署行政命令，将芬太尼列为大规模杀伤性武器",
+          "url": "https://news.ifeng.com/c/8p7mw3hu8Hs",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "乌克兰总统泽连斯基：希望在最终和平框架准备好之后与特朗普会面。",
@@ -52,6 +63,39 @@
           "time_info": "06时44分"
         },
         {
+          "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
+          "url": "https://wallstreetcn.com/articles/3761439",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
+          "url": "https://news.ifeng.com/c/8p7htngCHQD",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "日媒：高市被特朗普警告后情绪低落",
+          "url": "https://www.toutiao.com/trending/7584090116184985142/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "特朗普：正调查以军杀死哈马斯领导人是否违反停火协议",
           "url": "https://wallstreetcn.com/livenews/3021194",
           "source": "华尔街见闻-快讯",
@@ -61,6 +105,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时44分"
+        },
+        {
+          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "美国总统特朗普：“强烈”考虑通过行政命令重新归类大麻。",
@@ -107,6 +162,17 @@
           "time_info": "06时44分"
         },
         {
+          "title": "特朗普正式起诉BBC 共索赔100亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89BBC+%E5%85%B1%E7%B4%A2%E8%B5%94100%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "美国总统特朗普：我今天没看股市，也许它上涨了。",
           "url": "https://flash.jin10.com/detail/20251216050700724800",
           "source": "金十数据",
@@ -150,11 +216,12 @@
           "url": "https://www.cls.cn/detail/2230375",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时44分"
+          "appearance_count": 2,
+          "time_info": "[06时44分 ~ 12时40分]"
         },
         {
           "title": "（美股）费城金银指数收跌0.41%，报336.35点。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.27%，报2398.34点。",
@@ -210,6 +277,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "年初 DeepSeek R1 的发布，给整个 AI 行业带来了什么影响？",
+          "url": "https://www.zhihu.com/question/1974950875228308388",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         }
       ]
     },
