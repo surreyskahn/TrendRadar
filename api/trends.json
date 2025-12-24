@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T18:30:49.259951+08:00",
-  "total_titles_processed": 766,
+  "generated_at": "2025-12-24T22:27:50.472254+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
@@ -15,8 +15,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 18时30分]"
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 22时27分]"
+        },
+        {
+          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
+          "url": "https://wallstreetcn.com/articles/3761946",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时41分 ~ 22时27分]"
         },
         {
           "title": "特朗普又自恋,新战舰用自己名",
@@ -32,18 +45,6 @@
           "time_info": "[06时27分 ~ 18时30分]"
         },
         {
-          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
-          "url": "https://wallstreetcn.com/articles/3761946",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 18时30分]"
-        },
-        {
           "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
           "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
           "source": "凤凰网",
@@ -51,8 +52,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 18时30分]"
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 22时27分]"
         },
         {
           "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
@@ -130,6 +131,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
+        },
+        {
+          "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
+          "url": "https://wallstreetcn.com/articles/3761983",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "解析美军制造特朗普级战舰",
@@ -229,12 +241,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
+        },
+        {
+          "title": "评论员：特朗普级战舰可能造不出来",
+          "url": "https://www.toutiao.com/trending/7587325146696781348/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：日线四连涨标普收新高 英伟达升3%领涨七巨头",
@@ -254,7 +277,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
         },
@@ -268,6 +291,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3026248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "强劲GDP打击降息预期，美股低开，金银铜再创新高，伦铜突破1.2万美元，日元两日反弹",
@@ -301,6 +335,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "美国首申数据公布后，美股期货小幅拉升，纳指期货日内涨0.02%，标普500指数期货跌幅收窄至0.02%，道指期货跌0.02%，现货黄金、美元指数短线变动不大。",
+          "url": "https://wallstreetcn.com/livenews/3026240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-24）",
+          "url": "https://flash.jin10.com/detail/20251224213043071800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "半导体ETF收涨超0.9%，领跑美股行业ETF，标普电信、科技板块涨超0.9%",
@@ -381,7 +437,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
         },
@@ -403,6 +459,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "伊朗代表：感谢中俄",
+          "url": "https://www.douyin.com/hot/2345871",
+          "source": "抖音",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 22时27分]"
+        },
+        {
           "title": "伊朗为何愿联合委内瑞拉对抗美威胁",
           "url": "https://www.toutiao.com/trending/7587300342778301988/",
           "source": "今日头条",
@@ -412,17 +480,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时29分 ~ 18时30分]"
-        },
-        {
-          "title": "伊朗代表：感谢中俄",
-          "url": "https://www.douyin.com/hot/2345871",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时30分"
         }
       ]
     },
@@ -437,7 +494,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
         }
@@ -461,6 +518,23 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI考虑在ChatGPT内植入广告。 该公司计划在用户查询时优先展示推广内容。 据悉，OpenAI已设计多种广告设计样稿，旨在打造全新的数字广告形式，而非简单模仿现有模式。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3026250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -472,8 +546,25 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 18时30分]"
+          "appearance_count": 4,
+          "time_info": "[12时41分 ~ 22时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "初请数据公布后，现货黄金、美元指数DXY短线变动不大，美国股指期货保持稳定。",
+          "url": "https://flash.jin10.com/detail/20251224213209777800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         }
       ]
     }
