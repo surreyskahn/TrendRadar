@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-01T06:28:11.692671+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-01T12:53:31.310138+08:00",
+  "total_titles_processed": 545,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "特朗普：将从芝加哥、洛杉矶和波特兰撤走国民警卫队",
+          "url": "https://news.ifeng.com/c/8pYFJNVmi6C",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
         {
           "title": "中方回应特朗普涉东部战区军演言论",
           "url": "https://www.toutiao.com/trending/7589836293949902363/",
@@ -25,7 +36,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -36,7 +47,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -47,7 +58,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -58,9 +69,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "迫于物价压力 特朗普推迟对家具及橱柜加征关税至2027年",
+          "url": "https://flash.jin10.com/detail/20260101113737125800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "美国总统特朗普：我们将从芝加哥、洛杉矶和波特兰撤回国民警卫队。",
@@ -69,9 +91,31 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "美国白宫：特朗普总统签署公告，将软包家具、厨房橱柜和浴室柜的关税上调计划推迟一年。",
+          "url": "https://flash.jin10.com/detail/20260101111825003800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
+          "title": "美法院裁定特朗普政府须将加州国民警卫队指挥权交还州长",
+          "url": "https://wallstreetcn.com/livenews/3029538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "美国总统特朗普：共和党人别再给保险公司钱了。资金必须直接流向民众，让他们自行购买医疗保险。",
@@ -80,15 +124,26 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "美国白宫：特朗普总统调整了进入美国的木材、木料及其衍生产品的进口政策。",
+          "url": "https://flash.jin10.com/detail/20260101111709020800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
@@ -108,9 +163,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
+          "url": "https://www.cls.cn/detail/2246008",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
@@ -119,7 +185,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -130,7 +196,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -141,7 +207,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -152,7 +218,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         }
@@ -180,9 +246,26 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
+          "url": "https://wallstreetcn.com/articles/3762366",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         }
       ]
     },
@@ -197,7 +280,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         }
@@ -214,7 +297,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         }
