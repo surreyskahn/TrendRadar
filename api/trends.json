@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-01-05T13:01:50.872046+08:00",
-  "total_titles_processed": 560,
+  "generated_at": "2026-01-05T18:34:28.638856+08:00",
+  "total_titles_processed": 783,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 42,
       "titles": [
+        {
+          "title": "中方回应特朗普谈格陵兰岛涉华言论",
+          "url": "https://www.toutiao.com/trending/7591783882828431398/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
+          "title": "中方回应特朗普威胁古巴等国",
+          "url": "https://news.ifeng.com/c/8pfVwlEUPag",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
         {
           "title": "上周六新建账号、本周五下注“马杜罗被抓”、周日爆赚1242%--Polymarket又见“特朗普内幕交易”？",
           "url": "https://wallstreetcn.com/articles/3762495",
@@ -17,6 +39,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
+          "url": "https://news.ifeng.com/c/8pfcK5vNmj2",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
+          "title": "“特马”重修旧好？美国突袭委内瑞拉后 特朗普和马斯克共进晚餐",
+          "url": "https://www.cls.cn/detail/2247636",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         },
         {
           "title": "特朗普威胁委代理总统 还称“绝对需要格陵兰岛”",
@@ -52,26 +96,72 @@
           "time_info": "06时27分"
         },
         {
-          "title": "特朗普威胁委内瑞拉代总统：若不正确行事 将付出更惨痛代价",
-          "url": "https://www.cls.cn/detail/2247373",
-          "source": "财联社热门",
+          "title": "外交部回应特朗普谈格陵兰岛时涉华言论",
+          "url": "https://news.ifeng.com/c/8pfVWI1nWMO",
+          "source": "凤凰网",
           "ranks": [
-            6
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时01分"
+          "time_info": "18时34分"
         },
         {
           "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
           "url": "https://wallstreetcn.com/articles/3762529",
           "source": "华尔街见闻",
           "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 18时34分]"
+        },
+        {
+          "title": "“如果她不做正确的事，可能比马杜罗更惨”！特朗普警告委内瑞拉“代总统”：必须听美国的",
+          "url": "https://wallstreetcn.com/articles/3762521",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
             7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 18时34分]"
+        },
+        {
+          "title": "特朗普接连向多国发出威胁",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8E%A5%E8%BF%9E%E5%90%91%E5%A4%9A%E5%9B%BD%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
+          "source": "百度热搜",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
+          "title": "特朗普威胁委内瑞拉代总统：若不正确行事 将付出更惨痛代价",
+          "url": "https://www.cls.cn/detail/2247373",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "13时01分"
+        },
+        {
+          "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
+          "url": "https://www.zhihu.com/question/1991053595043390487",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         },
         {
           "title": "特朗普为美企进军委内瑞拉“吹号”：准备好“为美国赚钱”",
@@ -85,15 +175,15 @@
           "time_info": "06时27分"
         },
         {
-          "title": "“如果她不做正确的事，可能比马杜罗更惨”！特朗普警告委内瑞拉“代总统”：必须听美国的",
-          "url": "https://wallstreetcn.com/articles/3762521",
-          "source": "华尔街见闻",
+          "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
+          "url": "https://news.ifeng.com/c/8pfZjM0LgjM",
+          "source": "凤凰网",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时01分"
+          "time_info": "18时34分"
         },
         {
           "title": "特朗普威胁委内瑞拉代总统：若不配合美国 将付出更惨痛代价",
@@ -102,7 +192,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -113,7 +203,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -135,7 +225,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -146,7 +236,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -157,9 +247,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
+        },
+        {
+          "title": "特朗普又改口：不相信乌克兰袭击普京官邸",
+          "url": "https://news.ifeng.com/c/8pfVwlEUPcV",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         },
         {
           "title": "丹麦首相：美国总统特朗普必须停止其关于格陵兰岛的威胁。谈论美国需要接管格陵兰岛毫无道理；美国无权“吞并”丹麦王国中的任何一处。",
@@ -173,13 +274,35 @@
           "time_info": "06时27分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-05）",
+          "url": "https://flash.jin10.com/detail/20260105181208268800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
+          "title": "格陵兰岛总理回应特朗普",
+          "url": "https://www.baidu.com/s?wd=%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E6%80%BB%E7%90%86%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
           "title": "市场消息：美国总统特朗普将于美国东部时间周一下午3:30（北京时间次日凌晨4:30）参加政策会议。",
           "url": "https://flash.jin10.com/detail/20260105120651900800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -195,13 +318,24 @@
           "time_info": "06时27分"
         },
         {
+          "title": "委内瑞拉代总统喊话特朗普",
+          "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%BB%A3%E6%80%BB%E7%BB%9F%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
           "title": "特朗普威胁委代总统或付“沉重代价”",
           "url": "https://www.toutiao.com/trending/7591475606379154985/",
           "source": "今日头条",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -212,7 +346,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -226,6 +360,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "特朗普威胁多国",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E5%A4%9A%E5%9B%BD%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         },
         {
           "title": "马斯克表示，昨晚其与美国总统特朗普及美国第一夫人共进了晚餐。",
@@ -267,7 +412,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -294,6 +439,17 @@
           "time_info": "06时27分"
         },
         {
+          "title": "外交部回应特朗普对多国发出威胁",
+          "url": "https://www.toutiao.com/trending/7590815336937996329/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
           "title": "特朗普政府要求美国石油公司投资委内瑞拉，业内对此态度审慎",
           "url": "https://wallstreetcn.com/livenews/3030325",
           "source": "华尔街见闻-快讯",
@@ -311,7 +467,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         }
@@ -319,8 +475,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "伊朗呼吁美方释放委内瑞拉总统马杜罗",
+          "url": "https://news.ifeng.com/c/8pfbAio37z3",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
         {
           "title": "内塔尼亚胡谈访美成果：以美坚持伊朗“零铀浓缩”立场",
           "url": "https://news.ifeng.com/c/8peAynFqde9",
