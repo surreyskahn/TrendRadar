@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T22:32:29.824309+08:00",
-  "total_titles_processed": 969,
+  "generated_at": "2026-01-10T06:29:21.832204+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普：取消对委内瑞拉第二波打击",
@@ -16,702 +16,330 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时32分 ~ 22时32分]"
-        },
-        {
-          "title": "中方回应特朗普涉台言论：解决台湾问题是中国人自己的事",
-          "url": "https://www.cls.cn/detail/2252966",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 22时32分]"
-        },
-        {
-          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
-          "url": "https://wallstreetcn.com/articles/3762789",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
           "time_info": "[06时28分 ~ 06时29分]"
         },
         {
-          "title": "美国联邦住房金融局局长普尔特：（就特朗普指示购买2000亿美元的抵押贷款债券）我们正在着手处理。",
-          "url": "https://flash.jin10.com/detail/20260109055617117800",
+          "title": "美国总统特朗普：（委内瑞拉反对派领导人）马查多将于周二或周三抵达华盛顿。马查多可能与委内瑞拉的政权运作有关联。",
+          "url": "https://flash.jin10.com/detail/20260110045705300800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "06时29分"
-        },
-        {
-          "title": "特朗普：必须“拥有”整个格陵兰",
-          "url": "https://wallstreetcn.com/livenews/3033587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "特朗普：美联储主席人选已定，但我暂时不想说",
-          "url": "https://www.cls.cn/detail/2252430",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "特朗普放话“我不需要国际法”",
-          "url": "https://news.ifeng.com/c/8plmHsoaK5L",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时46分 ~ 22时32分]"
         },
         {
           "title": "外交部回应特朗普涉台言论",
           "url": "https://www.douyin.com/hot/2362093",
           "source": "抖音",
           "ranks": [
-            8,
             2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 22时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
         },
         {
-          "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
-          "url": "https://wallstreetcn.com/articles/3762899",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普：期待在不久的将来与哥伦比亚总统会晤。",
+          "url": "https://flash.jin10.com/detail/20260110045523616800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            6
+            3
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时46分 ~ 22时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
         },
         {
-          "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
-          "url": "https://wallstreetcn.com/articles/3762893",
-          "source": "华尔街见闻",
+          "title": "特朗普称委内瑞拉反对派要员马查多下周访美",
+          "url": "https://wallstreetcn.com/livenews/3034437",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            8,
-            9
+            3
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时46分 ~ 22时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
         },
         {
-          "title": "崔天凯：特朗普退出66个国际组织求“破”，中方应以“立”为主",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32345211",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普：如果伊朗开始“杀人”，美国会介入。但这并不意味着会派地面部队。",
+          "url": "https://flash.jin10.com/detail/20260110045423699800",
+          "source": "金十数据",
           "ranks": [
-            13,
             4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 18时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
         },
         {
-          "title": "特朗普“炮轰”美国军火商",
-          "url": "https://news.ifeng.com/c/8pkhjJcbtz4",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：伊朗麻烦大了，密切关注伊朗局势。",
+          "url": "https://flash.jin10.com/detail/20260110045338102800",
+          "source": "金十数据",
           "ranks": [
-            9
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时28分 ~ 12时47分]"
-        },
-        {
-          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1992865566088721749",
-          "source": "知乎",
-          "ranks": [
-            17,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时46分 ~ 22时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
         },
         {
           "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
           "url": "https://news.ifeng.com/c/8pm6HIDB94W",
           "source": "凤凰网",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 22时32分]"
-        },
-        {
-          "title": "特朗普一口气退出了哪66个国际组织？",
-          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
-          "source": "凤凰网",
-          "ranks": [
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 06时29分]"
         },
         {
-          "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
-          "url": "https://www.zhihu.com/question/1992497349604438807",
-          "source": "知乎",
+          "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
+          "url": "https://wallstreetcn.com/articles/3762899",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 06时29分]"
         },
         {
-          "title": "委内瑞拉代总统称「委未受外部势力统治」，回应特朗普日前声称美国已「掌控」委内瑞拉，目前其国内局势如何？",
-          "url": "https://www.zhihu.com/question/1992163357625643469",
-          "source": "知乎",
+          "title": "特朗普称美国必须拥有整个格陵兰，白宫“购岛”方案流出",
+          "url": "https://wallstreetcn.com/articles/3762902",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
+          "time_info": "[06时28分 ~ 06时29分]"
         },
         {
-          "title": "特朗普称取消对委第二波军事打击",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%96%E6%B6%88%E5%AF%B9%E5%A7%94%E7%AC%AC%E4%BA%8C%E6%B3%A2%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB",
-          "source": "bilibili 热搜",
+          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1992865566088721749",
+          "source": "知乎",
           "ranks": [
-            7
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时29分]"
         },
         {
-          "title": "特朗普称取消对委第二波军事打击",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%96%E6%B6%88%E5%AF%B9%E5%A7%94%E7%AC%AC%E4%BA%8C%E6%B3%A2%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "美国媒体人：特朗普增加军费表明美国可能正准备“世界大战”",
-          "url": "https://www.cls.cn/detail/2252295",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "美国石油公司高管们将于美东时间周五14:00（北京时间周六03:00）在白宫会见总统特朗普。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3033580",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "一图看懂｜特朗普一口气退出了哪66个国际组织？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32341974",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "特朗普关税实施半年后美国贸易逆差大幅收窄，降至2009年以来最低水平",
-          "url": "https://www.cls.cn/detail/2252393",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "美国总统特朗普：现在，我正特别关注住房市场。已指示我的代表购买2000亿美元的抵押贷款债券。",
-          "url": "https://flash.jin10.com/detail/20260109052917631800",
+          "title": "美国总统特朗普：委内瑞拉似乎是盟友。",
+          "url": "https://flash.jin10.com/detail/20260110045154253800",
           "source": "金十数据",
           "ranks": [
-            9
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
         {
-          "title": "美国总统特朗普：与英特尔首席执行官举行了不错的会晤。",
-          "url": "https://flash.jin10.com/detail/20260109051423232800",
+          "title": "美国总统特朗普：不认为有必要“俘虏”俄罗斯总统普京。",
+          "url": "https://flash.jin10.com/detail/20260110045107756800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
+          "title": "特朗普讲话期间，康菲石油(COP.N)股价下跌1%。",
+          "url": "https://flash.jin10.com/detail/20260110045006833800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
+          "title": "美国总统特朗普：没人真正知道古巴局势会如何发展。",
+          "url": "https://flash.jin10.com/detail/20260110044609852800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
+          "title": "美国总统特朗普：将继续举办石油会议，（但后续）就没有新闻发布会了。",
+          "url": "https://wallstreetcn.com/livenews/3034430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
+          "title": "美国总统特朗普：（对埃克森美孚说）我们要速度和质量。",
+          "url": "https://flash.jin10.com/detail/20260110044317465800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
         {
-          "title": "特朗普放话必须“拥有”整个格陵兰 欧盟高官：“极其令人担忧”",
-          "url": "https://www.cls.cn/detail/2252516",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "哈梅内伊喊话特朗普",
-          "url": "https://wallstreetcn.com/livenews/3034207",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：不回顾石油公司过去损失了多少。",
+          "url": "https://flash.jin10.com/detail/20260110044046754800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时32分"
-        },
-        {
-          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
           "time_info": "06时29分"
         },
         {
-          "title": "特朗普称必须拥有整个格陵兰 芝商所再度上调贵金属期货保证金 | 环球市场",
-          "url": "https://www.cls.cn/detail/2252459",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "美最高法院裁决特朗普关税前夕，财长声称：若败诉不影响关税收入",
-          "url": "https://wallstreetcn.com/livenews/3033579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "观察｜特朗普势在必得格陵兰岛，欧洲还能争取何种“交易”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32342597",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-09）",
-          "url": "https://flash.jin10.com/detail/20260109175303583800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "特朗普：指示购买2000亿美元抵押贷款债券",
-          "url": "https://wallstreetcn.com/livenews/3033571",
+          "title": "美国总统特朗普：俄罗斯决定，不为了油轮而对抗美国。",
+          "url": "https://wallstreetcn.com/livenews/3034422",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
         {
-          "title": "释疑｜美国要“吞并”格陵兰岛！特朗普可能有5种方案，细看棋局推演",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32345352",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "特朗普对伊强硬表态 能源板块借势开启“补涨”行情",
-          "url": "https://flash.jin10.com/detail/20260109175258513800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "特朗普称不担心美俄《新削减战略武器条约》即将到期",
-          "url": "https://wallstreetcn.com/livenews/3033738",
+          "title": "美国总统特朗普：正为委内瑞拉投资创建一个“配方”。 希望我自己不至于动用“后备方案”。 我们（美国石油公司）将长期地盘踞在委内瑞拉。",
+          "url": "https://wallstreetcn.com/livenews/3034421",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "特朗普 ：禁止囤房",
-          "url": "https://www.douyin.com/hot/2360816",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
         {
-          "title": "周四（1月8日），降息赢家指数涨2.69%，报104.68点。 “特朗普关税输家”指数涨2.71%，报119.13点。 “特朗普金融指数”涨0.37%，报179.91点。 散户抱团概念股指数/迷因股（meme stock）指数涨1.97%，报16.42点。",
-          "url": "https://wallstreetcn.com/livenews/3033569",
+          "title": "特朗普：1月30日可能再次发生美国政府关门。",
+          "url": "https://wallstreetcn.com/livenews/3034420",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
         {
-          "title": "美商务部长：美印贸易谈判停滞原因在于莫迪未致电特朗普",
-          "url": "https://wallstreetcn.com/livenews/3034011",
+          "title": "美国总统特朗普：今天的非农就业报告非常惊艳。 （谈及提前在自家社交媒体平台贴出数据，声称）他们给了我一些数据。 他们给我，我就贴。",
+          "url": "https://wallstreetcn.com/livenews/3034419",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            19
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "据美联社援引消息人士报道，美国总统特朗普的顾问在白宫会见了丹麦和格陵兰岛的特使。",
-          "url": "https://flash.jin10.com/detail/20260109045909351800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
         {
-          "title": "美国内政部长Burgum：总统特朗普将决定古巴能否（继续）获得委内瑞拉石油。",
-          "url": "https://wallstreetcn.com/livenews/3033565",
+          "title": "美国总统特朗普：我喜欢丹麦，但他们并不拥有格陵兰。 不管他们（丹麦）喜欢与否，我都要对格陵兰做点什么。 要么和平解决，要么（我）硬来（the easy or hard way）。",
+          "url": "https://wallstreetcn.com/livenews/3034416",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "美国总统特朗普：（谈对尼日利亚的袭击事件）希望能将此视为一次性的袭击事件，但如果基督徒遭到杀害，那可能就会变成“多次袭击事件”了。",
-          "url": "https://flash.jin10.com/detail/20260109045808959800",
-          "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
         {
-          "title": "俄外交部：特朗普已下令释放被扣押油轮上的俄公民",
-          "url": "https://wallstreetcn.com/livenews/3034003",
+          "title": "美国总统特朗普：委内瑞拉的稳定性与民主同样重要。",
+          "url": "https://wallstreetcn.com/livenews/3034415",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "高盛：特朗普政府推迟铜关税决定可能性加大 通胀在中期选举前受关注",
-          "url": "https://wallstreetcn.com/livenews/3033728",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "特朗普称支持对俄制裁法案",
-          "url": "https://flash.jin10.com/detail/20260109112430478800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "美参议院拟限制特朗普对委继续动武",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%8F%82%E8%AE%AE%E9%99%A2%E6%8B%9F%E9%99%90%E5%88%B6%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E7%BB%A7%E7%BB%AD%E5%8A%A8%E6%AD%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "特朗普称支持对俄制裁法案",
-          "url": "https://wallstreetcn.com/livenews/3033718",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "美国总统特朗普8日在接受福克斯新闻网采访时说，美国要开始对贩毒集团进行“陆地打击”。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3033717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "人事管理办公室（OPM）数据显示：美国总统特朗普第二任期内，已经有超过32.2万名雇员离开联邦机构。 教育部减员39%，财政部流失21%。",
-          "url": "https://wallstreetcn.com/livenews/3033551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
         {
-          "title": "美国总统特朗普：委内瑞拉和美国都将获得石油收入。古巴完全依赖委内瑞拉的资金和石油。古巴为委内瑞拉提供保护。希望做些事情帮助古巴。古巴正走向失败。",
-          "url": "https://wallstreetcn.com/livenews/3033716",
+          "title": "特朗普施压大型石油公司在委内瑞拉投资1000亿美元",
+          "url": "https://flash.jin10.com/detail/20260110042928179800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
+          "title": "特朗普今天发表讲话时，衣领上别着一枚他自己形象的徽章。",
+          "url": "https://flash.jin10.com/detail/20260110042306371800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
+          "title": "【特朗普：美国将立即开始提炼和销售5000万桶委石油】1月9日，美国总统特朗普在白宫与大型石油企业高管举行会议。 特朗普表示，将讨论石油公司如何重建委内瑞拉的石油产业，部分资金将流向委内瑞拉和石油公司。特朗普称，委内瑞拉8日向美国提供了3000万桶石油。 特朗普还称，美政府将决定哪些石油公司将进入委内瑞拉，石油公司将直接与美国打交道，而不是与委内瑞拉。 特朗普还表示，美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可以购买想要的任何数量的石油，美方将“几乎立即开放业务”。特朗普称下周将与石油公司再次举行会议。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3034409",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时47分"
+          "time_info": "06时29分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "12月非农不及预期，美股三大股指开盘涨跌不一，纽约银日内涨幅达5.0%，美元指数短线下挫，基本金属铜铝继续攀升，嘉能可上涨10%",
+          "url": "https://wallstreetcn.com/articles/3762954",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时29分]"
+        },
         {
           "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
           "url": "https://wallstreetcn.com/articles/3762848",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时46分 ~ 22时32分]"
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时29分]"
         },
         {
-          "title": "美股收盘：三大指数涨跌不一 军工股全线走强 阿里巴巴涨超5%",
-          "url": "https://www.cls.cn/detail/2252454",
-          "source": "财联社热门",
+          "title": "（美股）费城金银指数收涨1.97%，报374.53点，本周累计上涨9.32%，整体震荡上行。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.38%，报2619.57点，美股盘初显著拉升，本周累涨7.39%。 （美股）原材料指数涨2.38%，报245.15点，本周累涨6.19%。 （美股）金属与矿业指数涨1.34%，报231.57点，本周累涨3.44%。",
+          "url": "https://wallstreetcn.com/livenews/3034432",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2252232",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-01-09）",
-          "url": "https://flash.jin10.com/detail/20260109220150497800",
-          "source": "金十数据",
-          "ranks": [
-            11
+            8
           ],
           "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时32分"
-        },
-        {
-          "title": "（美股）费城金银指数收涨0.10%，报367.31点。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.05%，报2583.79点，北京时间22:30美股开盘时候跳水，23:00刷新日低至2525.03点。 （美股）原材料指数涨0.94%，报239.45点。 （美股）金属与矿业指数跌0.89%，报228.50点。",
-          "url": "https://wallstreetcn.com/livenews/3033575",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3034208",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时32分"
-        },
-        {
-          "title": "金十图示：2026年01月08日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260109050537009800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "金十图示：2026年01月08日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260109050534682800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 阿里巴巴涨超5%",
-          "url": "https://flash.jin10.com/detail/20260109050055276800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "英特尔美股盘后涨2%，美国总统特朗普声称会见了该公司CEO。",
-          "url": "https://wallstreetcn.com/livenews/3033566",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "美国非农等数据公布后，美股期货短线拉升，纳指期货日内涨0.43%，标普500指数期货涨0.33%，道指期货涨0.28%；美国国债下跌，美元指数短线下挫。现货黄金短线拉升，向上触及4490美元/盎司，日内涨0.30%。",
-          "url": "https://wallstreetcn.com/livenews/3034194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时32分"
-        },
-        {
-          "title": "周四（1月8日），彭博电动汽车价格回报指数跌0.94%，报3571.19点。 亚太早盘，指数持续下挫，北京时间10:00以来持续低位震荡，美股开盘刷新日低至3560.03点。 MobilEye Global跌8.5%，Ola Electric Mobility Ltd.跌4.37%，意法半导体跌2.79%，Sona Blw Precision Forgings Ltd.跌2.31%，MP材料、美国雅宝ALB、“特斯拉劲敌”Rivian至少跌超1%，宝马跌0.49%，特斯拉则涨1%，Lucid集团涨2.3%，Solid Power跌4.86%，沃尔沃汽车集团涨5.44%，微宏控股涨11.90%。",
-          "url": "https://wallstreetcn.com/livenews/3033561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "生科ETF收跌超2.5%，半导体ETF跌约1.6%，领跌美股行业ETF，标普能源板块创4月以来最大单日涨幅",
-          "url": "https://wallstreetcn.com/livenews/3033556",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         }
@@ -719,220 +347,61 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "一觉醒来，伊朗采取极端措施了",
-          "url": "https://news.ifeng.com/c/8plZSSGoG34",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
-        },
         {
           "title": "伊朗大范围断网，澳大利亚曾发警告，要求其公民尽快离伊，大规模断网是什么原因？如何解读当前伊朗局势？",
           "url": "https://www.zhihu.com/question/1992897642179552544",
           "source": "知乎",
           "ranks": [
-            5,
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时32分 ~ 22时32分]"
-        },
-        {
-          "title": "媒体称伊朗抗议席卷全国一半省份，至少 36 人死亡，一旦伊朗失控谁是背后赢家？谁失利？",
-          "url": "https://www.zhihu.com/question/1992559906939696772",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时28分 ~ 12时47分]"
-        },
-        {
-          "title": "国服玩家爆料:伊朗暴乱士兵揭竿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348885&amp;topic_name=%E5%9B%BD%E6%9C%8D%E7%8E%A9%E5%AE%B6%E7%88%86%E6%96%99%3A%E4%BC%8A%E6%9C%97%E6%9A%B4%E4%B9%B1%E5%A3%AB%E5%85%B5%E6%8F%AD%E7%AB%BF",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队：（抗议者的）现状持续下去是不可接受的。",
-          "url": "https://wallstreetcn.com/livenews/3034212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时32分"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队：恐怖袭击受害者的鲜血沾在策划者的手上。",
-          "url": "https://flash.jin10.com/detail/20260109220023641800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时32分"
+          "time_info": "[06时28分 ~ 06时29分]"
         },
         {
           "title": "伊朗指责美以策划动乱",
           "url": "https://www.douyin.com/hot/2362541",
           "source": "抖音",
           "ranks": [
-            13
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时32分"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队：当前这种状况的持续是不可接受的。",
-          "url": "https://flash.jin10.com/detail/20260109215746639800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时32分"
-        },
-        {
-          "title": "哈梅内伊就伊朗多地骚乱表态",
-          "url": "https://www.toutiao.com/trending/7593189459336924691/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时32分"
+          "time_info": "06时29分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 4,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
       "titles": [
         {
-          "title": "特朗普要加军费，全球军工股大涨，纳指跌0.5%，美债强势，金银继续回调，白银失守75美元",
-          "url": "https://wallstreetcn.com/articles/3762848",
-          "source": "华尔街见闻",
+          "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
+          "url": "https://www.zhihu.com/question/1923049081044960601",
+          "source": "知乎",
           "ranks": [
-            2
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 06时29分]"
-        },
-        {
-          "title": "就在周五！美最高法院关税意见日敲定，美股、美债市场迎来“大考”",
-          "url": "https://wallstreetcn.com/articles/3762888",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时46分 ~ 22时32分]"
-        },
-        {
-          "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
-          "url": "https://wallstreetcn.com/articles/3762734",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 06时29分]"
-        },
-        {
-          "title": "黄金成全球最大储备资产，30年来首次超越美债！",
-          "url": "https://wallstreetcn.com/articles/3762855",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时46分 ~ 18时32分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "加速AI落地 谷歌为Gmail引入更多Gemini功能",
-          "url": "https://www.cls.cn/detail/2252328",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜英伟达收跌约2.2%，谷歌A涨约1.1%，亚马逊涨超1.9%",
-          "url": "https://wallstreetcn.com/livenews/3033564",
+          "title": "美股七巨头收盘播报｜特斯拉收涨2.1%，谷歌A涨超0.9%，苹果结束七连跌",
+          "url": "https://wallstreetcn.com/livenews/3034411",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            27
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“中国OpenAI”登陆港交所 2026将成大模型资本化关键年?",
-          "url": "https://www.cls.cn/detail/2252286",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数8日上涨",
-          "url": "https://flash.jin10.com/detail/20260109044102190800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "06时29分"
         }
