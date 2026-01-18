@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-18T12:48:13.622860+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-01-18T18:29:09.363559+08:00",
+  "total_titles_processed": 753,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 37,
       "titles": [
+        {
+          "title": "异军突起！周四与特朗普会面顺利，贝莱德的里德尔竞选美联储主席呼声渐起",
+          "url": "https://wallstreetcn.com/articles/3763532",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时29分]"
+        },
         {
           "title": "特朗普：对欧洲8国加征关税，直至完全收购格陵兰岛",
           "url": "https://news.ifeng.com/c/8q00jeWUQBa",
@@ -36,7 +47,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -47,7 +58,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -61,6 +72,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "特朗普发黑白照：我是关税之王(图)",
+          "url": "https://news.ifeng.com/c/8q0nQjJB7h7",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时47分 ~ 18时29分]"
         },
         {
           "title": "特朗普称将对欧洲8国加征关税，直至“完全收购格陵兰岛”",
@@ -79,22 +101,34 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%A0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%90%91%E6%AC%A7%E6%B4%B28%E5%9B%BD%E5%8A%A0%E7%A8%8E",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 12时48分]"
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 18时28分]"
         },
         {
-          "title": "特朗普发黑白照：我是关税之王(图)",
-          "url": "https://news.ifeng.com/c/8q0nQjJB7h7",
-          "source": "凤凰网",
+          "title": "特朗普欲将加沙“和平委员会”模式全球复制，视为“联合国的可能替代机构”",
+          "url": "https://wallstreetcn.com/articles/3763529",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时47分 ~ 12时48分]"
+          "time_info": "[18时28分 ~ 18时29分]"
+        },
+        {
+          "title": "特朗普称将对欧洲 8 国加征关税，直至完全收购格陵兰岛，这需要多少钱，经济上 2026 再掀关税战还能有效吗？",
+          "url": "https://www.zhihu.com/question/1996151715129492944",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时29分]"
         },
         {
           "title": "大西洋理事会：欧洲将统一抵制特朗普的关税",
@@ -103,7 +137,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -117,6 +151,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "德国工程协会表示，欧盟委员会应考虑采取反胁迫工具，以应对美国总统特朗普针对格陵兰岛的关税威胁。",
+          "url": "https://flash.jin10.com/detail/20260118171938820800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "据法新社：加拿大总理卡尼已收到美国总统特朗普邀请其加入加沙地带和平委员会的请求，其计划接受该邀请。",
@@ -158,7 +203,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -169,7 +214,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -180,7 +225,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -194,6 +239,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32410190",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "特朗普罕见公开“感谢伊朗”",
@@ -213,9 +269,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
+        },
+        {
+          "title": "约旦表示，阿卜杜拉国王收到了美国总统特朗普发出的加入加沙和平委员会的邀请。",
+          "url": "https://flash.jin10.com/detail/20260118162133517800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "土耳其总统府：特朗普邀请埃尔多安加入“加沙和平委员会”",
@@ -235,7 +302,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -246,7 +313,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -268,7 +335,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -290,7 +357,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -345,7 +412,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         }
@@ -353,7 +420,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊朗示威平息，互联网服务将分三阶段恢复",
@@ -363,8 +430,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[12时47分 ~ 18时29分]"
+        },
+        {
+          "title": "土耳其外长称以色列摩萨德正在介入伊朗局势",
+          "url": "https://flash.jin10.com/detail/20260118173846897800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "土耳其外长称以色列摩萨德正在介入伊朗局势",
+          "url": "https://wallstreetcn.com/livenews/3039223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "据伊朗方面消息，短信（SMS）发送功能当地时间16日晚已恢复；互联网将采取阶梯式、分阶段的方式逐步恢复连接。",
@@ -394,11 +483,23 @@
           "url": "https://wallstreetcn.com/livenews/3039167",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 18时29分]"
+        },
+        {
+          "title": "一名伊朗地区官员透露，伊朗抗议活动中至少有5000人死亡，其中包括约500名安全人员。部分最激烈的冲突发生在伊朗西北部的库尔德地区。",
+          "url": "https://flash.jin10.com/detail/20260118171215197800",
+          "source": "金十数据",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时48分"
+          "time_info": "18时29分"
         },
         {
           "title": "伊朗一间谍组织被瓦解，其主要成员曾多次前往以色列",
@@ -407,7 +508,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -440,7 +541,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -459,8 +560,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
+          "url": "https://wallstreetcn.com/articles/3763533",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时29分]"
+        },
         {
           "title": "解读ChatGPT加入广告背后",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
@@ -473,22 +585,23 @@
           "time_info": "06时27分"
         },
         {
+          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
+          "url": "https://www.zhihu.com/question/1995914466735388213",
+          "source": "知乎",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时47分 ~ 18时29分]"
+        },
+        {
           "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
           "url": "https://wallstreetcn.com/articles/3763519",
           "source": "华尔街见闻",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 12时48分]"
-        },
-        {
-          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
-          "url": "https://www.zhihu.com/question/1995914466735388213",
-          "source": "知乎",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -518,7 +631,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         }
