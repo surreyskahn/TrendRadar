@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T18:37:09.828723+08:00",
-  "total_titles_processed": 778,
+  "generated_at": "2026-01-20T22:39:47.063408+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普“私信”震惊欧洲：“因未获诺贝尔和平奖，我不再只考虑“和平”，美国必须完全控制格陵兰”",
@@ -28,8 +28,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
+          "appearance_count": 3,
+          "time_info": "[18时36分 ~ 22时39分]"
+        },
+        {
+          "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
+          "url": "https://wallstreetcn.com/articles/3763642",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 22时39分]"
         },
         {
           "title": "关于美联储主席人选，特朗普表示，知道自己想要的是谁。",
@@ -87,16 +99,16 @@
           "time_info": "12时52分"
         },
         {
-          "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
-          "url": "https://wallstreetcn.com/articles/3763642",
+          "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
+          "url": "https://wallstreetcn.com/articles/3763675",
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时52分 ~ 18时37分]"
+          "time_info": "[18时36分 ~ 22时39分]"
         },
         {
           "title": "特朗普致信挪威首相：我不再有义务只考虑和平",
@@ -121,15 +133,16 @@
           "time_info": "06时29分"
         },
         {
-          "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
-          "url": "https://wallstreetcn.com/articles/3763675",
-          "source": "华尔街见闻",
+          "title": "“特朗普计划4月访华”，中方回应",
+          "url": "https://www.cls.cn/detail/2263523",
+          "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
+          "time_info": "[18时37分 ~ 22时39分]"
         },
         {
           "title": "不可能既要又要，诺贝尔和平奖得主批特朗普政府",
@@ -139,8 +152,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
+          "appearance_count": 3,
+          "time_info": "[18时36分 ~ 22时39分]"
+        },
+        {
+          "title": "特朗普 2.0 任期与其上一届任期相比，他的执政思路有变化吗？背后有哪些深层的逻辑？",
+          "url": "https://www.zhihu.com/question/1996539214104322510",
+          "source": "知乎",
+          "ranks": [
+            17,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时36分 ~ 22时39分]"
         },
         {
           "title": "特朗普发登上格陵兰岛图",
@@ -176,17 +201,6 @@
           "time_info": "[18时36分 ~ 18时37分]"
         },
         {
-          "title": "特朗普 2.0 任期与其上一届任期相比，他的执政思路有变化吗？背后有哪些深层的逻辑？",
-          "url": "https://www.zhihu.com/question/1996539214104322510",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
-        },
-        {
           "title": "特朗普威胁对法国葡萄酒征200%关税",
           "url": "https://www.toutiao.com/trending/7596465512051703846/",
           "source": "今日头条",
@@ -196,17 +210,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时36分 ~ 18时37分]"
-        },
-        {
-          "title": "“特朗普计划4月访华”，中方回应",
-          "url": "https://www.cls.cn/detail/2263523",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
         },
         {
           "title": "普京被邀请加入特朗普“和平委员会”",
@@ -259,9 +262,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
+        },
+        {
+          "title": "美国贸易代表格里尔：美国总统特朗普有关格陵兰岛的关税威胁是合理运用关税。",
+          "url": "https://flash.jin10.com/detail/20260120223039850800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "欧盟委员会主席冯德莱恩：承认特朗普在推动乌克兰和平中的作用。 美国就格陵兰岛问题而加征的关税是一个错误。 （谈美国贸易协定）“协议就是协议”。",
@@ -270,7 +284,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -284,6 +298,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
+        },
+        {
+          "title": "一图看懂｜特朗普发持星条旗登岛图，格陵兰岛的战略价值在哪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32424436",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "手握“10万亿美元武器”！分析师热议：欧洲是否会祭出“资本战”反击特朗普？",
@@ -303,7 +328,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -317,6 +342,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
+        },
+        {
+          "title": "英国财政大臣里夫斯：我们绝对希望在格陵兰岛问题上与美国总统特朗普缓和局势。",
+          "url": "https://flash.jin10.com/detail/20260120222800077800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
+          "title": "美国财长贝森特：鼓励欧洲人对格陵兰岛持开放态度。 重申勿对美国就格陵兰岛的举措采取报复行动。 多亏了特朗普，北约联盟才如此安全稳固。 很难将市场反应与日本内部正在发生的情况分离开来。 我已经和日本财务大臣谈过了。 可以肯定的是，日本会发表一些言论以“稳定市场情绪”。 通过金融稳定监督委员会，银行监管机构进行了大量的放松管制措施。",
+          "url": "https://wallstreetcn.com/livenews/3040511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "芬兰总统：欧盟拥有多种工具说服特朗普撤销格陵兰岛威胁",
@@ -354,8 +401,132 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "古根海姆首席投资官Anne Walsh：不认可丹麦基金抛售美债的做法。 市场笼罩着针对美国的情绪。 地缘政治逆风加剧紧张情绪。 美国信用的基本面“相当不错”。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3040527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
+          "title": "美债日债领跌！格陵兰危机与财政压力引发全球债市抛售潮",
+          "url": "https://wallstreetcn.com/articles/3763671",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
+          "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
+          "url": "https://wallstreetcn.com/articles/3763688",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
+          "title": "美财长：欧洲抛售美债是“虚假叙事”",
+          "url": "https://www.toutiao.com/trending/7597354792205159982/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
+          "title": "丹麦养老基金AkademikerPension拟卖美债 称特朗普政策引发信用风险",
+          "url": "https://wallstreetcn.com/livenews/3040510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 22时39分]"
+        },
+        {
+          "title": "格陵兰引发关税战风险，美股债休市，欧股重创，美元走低，避险情绪推金银新高",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
+          "title": "美股纳指期货跌2%，Applovin盘前大跌10%，日债引领全球国债抛售潮，黄金站上4700、白银95美元！",
+          "url": "https://wallstreetcn.com/articles/3763668",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
+          "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2264127",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
+          "title": "美股三大指数大幅低开",
+          "url": "https://flash.jin10.com/detail/20260120223022654800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "财晓得丨金价涨成这样，到什么位置了？",
@@ -382,6 +553,17 @@
           "time_info": "[18时36分 ~ 18时37分]"
         },
         {
+          "title": "格陵兰岛争端为啥会推高金价",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E4%BA%89%E7%AB%AF%E4%B8%BA%E5%95%A5%E4%BC%9A%E6%8E%A8%E9%AB%98%E9%87%91%E4%BB%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "决定黄金价格的三大属性",
           "url": "https://www.toutiao.com/trending/7597064696004349450/",
           "source": "今日头条",
@@ -396,7 +578,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
@@ -419,42 +601,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 18时37分]"
         },
         {
-          "title": "格陵兰引发关税战风险，美股债休市，欧股重创，美元走低，避险情绪推金银新高",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
+          "title": "奥特曼的“印钞机”与“吞金兽”：OpenAI年化营收超200亿美元背后的豪赌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32417139",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时29分"
+          "time_info": "22时39分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "丹麦基金宣布抛售后，美国国债跌势延续。 欧元兑美元升至盘中高点1.1768。 美元指数短线走低约20点，现报98.37。 瑞典克朗和丹麦克朗兑美元上涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3040513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
         {
           "title": "美元指数跌约0.3%",
           "url": "https://wallstreetcn.com/livenews/3039917",
@@ -480,25 +655,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌 Gemini 准确率从 21% 提升至 97% 仅靠「复制粘贴」，这意味着什么？",
-          "url": "https://www.zhihu.com/question/1996233131175462349",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "俄罗斯外长拉夫罗夫：美国关税不会影响俄罗斯-伊朗关系。",
@@ -507,9 +665,49 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
+        },
+        {
+          "title": "惠誉：伊朗石油运输从影子船队向主流油轮的任何转变仍构成上行风险。",
+          "url": "https://flash.jin10.com/detail/20260120222256672800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
+          "title": "德国汉莎航空暂停飞往伊朗德黑兰的航班，直至3月28日。",
+          "url": "https://flash.jin10.com/detail/20260120222015275800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌 Gemini 准确率从 21% 提升至 97% 仅靠「复制粘贴」，这意味着什么？",
+          "url": "https://www.zhihu.com/question/1996233131175462349",
+          "source": "知乎",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时36分 ~ 22时39分]"
         }
       ]
     }
