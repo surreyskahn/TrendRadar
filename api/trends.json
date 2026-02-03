@@ -1,829 +1,167 @@
 {
-  "generated_at": "2026-02-02T22:51:15.862393+08:00",
-  "total_titles_processed": 973,
+  "generated_at": "2026-02-03T13:18:49.784471+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 21,
+      "keyword_group": "特朗普",
+      "match_count": 5,
       "titles": [
         {
-          "title": "已紧扣扳机！美军打击伊朗所需装备已部署齐全",
-          "url": "https://news.ifeng.com/c/8qQ4FwgNOwT",
+          "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
+          "url": "https://news.ifeng.com/c/8qQSV7gn6mY",
           "source": "凤凰网",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时54分 ~ 22时51分]"
-        },
-        {
-          "title": "伊朗总统已下令启动核谈判",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%B7%B2%E4%B8%8B%E4%BB%A4%E5%90%AF%E5%8A%A8%E6%A0%B8%E8%B0%88%E5%88%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 22时51分]"
-        },
-        {
-          "title": "伊朗否认收到美“最后通牒”，总统下令启动核谈判",
-          "url": "https://news.ifeng.com/c/8qQImZxB0ZO",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 22时51分]"
-        },
-        {
-          "title": "以总理内塔尼亚胡与高级官员讨论伊朗紧张局势",
-          "url": "https://wallstreetcn.com/livenews/3047831",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "懂了｜美国亲手埋下“核种子”：6分钟看伊朗核问题的前世今生",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32498721",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时54分 ~ 22时51分]"
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
-          "title": "伊朗总统已下令启动核谈判",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%B7%B2%E4%B8%8B%E4%BB%A4%E5%90%AF%E5%8A%A8%E6%A0%B8%E8%B0%88%E5%88%A4",
-          "source": "百度热搜",
+          "title": "特朗普：美印达成贸易协议 印度同意停购俄油+5000亿商品采购",
+          "url": "https://www.cls.cn/detail/2278350",
+          "source": "财联社热门",
           "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 22时51分]"
-        },
-        {
-          "title": "伊朗召见欧洲国家所有驻伊大使抗议",
-          "url": "https://www.toutiao.com/trending/7601995362588459050/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 22时51分]"
-        },
-        {
-          "title": "武契奇预计伊朗将在48小时内遭袭",
-          "url": "https://www.toutiao.com/trending/7602178880666157119/",
-          "source": "今日头条",
-          "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时54分"
+          "time_info": "13时18分"
         },
         {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗与美国会谈或将伊朗外长有阿拉格奇和美国特使威特科夫参与。",
-          "url": "https://flash.jin10.com/detail/20260202182302489800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "伊朗官员：有关伊斯兰革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。伊斯兰革命卫队并未就将在霍尔木兹海峡举行军事演习发布任何官方公告。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3047820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "以美军方高层被曝本周末密集会谈，讨论对伊朗打击行动",
-          "url": "https://wallstreetcn.com/livenews/3047819",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2278428",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时34分"
+          "time_info": "13时18分"
         },
         {
-          "title": "外媒：伊朗官员否认计划在霍尔木兹海峡举行军演",
-          "url": "https://flash.jin10.com/detail/20260202044309941800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗与美国会谈的时间和地点尚未最终确定。",
-          "url": "https://flash.jin10.com/detail/20260202182232113800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "伊朗总统已下令启动核谈判",
-          "url": "https://www.douyin.com/hot/2387489",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "美方释放与伊朗谈判信号 双方或在土耳其举行会晤",
-          "url": "https://flash.jin10.com/detail/20260202042728495800",
-          "source": "金十数据",
+          "title": "特朗普称美印达成贸易协议，对印关税下调至 18%，这场交易背后各有哪些算计？会带来什么影响？",
+          "url": "https://www.zhihu.com/question/2001948735127643511",
+          "source": "知乎",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时34分"
+          "time_info": "13时18分"
         },
         {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗与美国可能在未来几天举行会谈。",
-          "url": "https://flash.jin10.com/detail/20260202182205225800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "伊朗多地爆炸消息引发焦虑，美伊均释放和谈信号，哈梅内伊现身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32509724",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "伊朗外长分别与埃及沙特土耳其外长通电话",
-          "url": "https://wallstreetcn.com/livenews/3048288",
+          "title": "特朗普威胁要向哈佛大学索赔10亿美元",
+          "url": "https://wallstreetcn.com/livenews/3048804",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "伊朗否认收到美国“最后通牒” 称希望未来几天确定谈判细节",
-          "url": "https://wallstreetcn.com/livenews/3048278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "克里姆林宫：仍在努力缓和伊朗周边的紧张局势。",
-          "url": "https://flash.jin10.com/detail/20260202175252542800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "克里姆林宫：（在伊朗局势和铀问题上）早在很久以前俄方就曾提供过相关服务，以消除“干扰因素”。",
-          "url": "https://flash.jin10.com/detail/20260202175216042800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "爱泼斯坦案多名受害者指控特朗普",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E5%A4%9A%E5%90%8D%E5%8F%97%E5%AE%B3%E8%80%85%E6%8C%87%E6%8E%A7%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 06时34分]"
-        },
-        {
-          "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
-          "url": "https://news.ifeng.com/c/8qOFedymx0W",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 06时34分]"
-        },
-        {
-          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
-          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "美媒曝特朗普计划建造76米巨型凯旋门，白宫回应(图)",
-          "url": "https://news.ifeng.com/c/8qOoTOMvfMS",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "特朗普称能让其他国家付钱，绝口不提欠联合国会费",
-          "url": "https://news.ifeng.com/c/8qPfsxsfg0G",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "特朗普宣布：白宫草坪看格斗，首都街头飙赛车",
-          "url": "https://news.ifeng.com/c/8qOL2MAnXO8",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 06时34分]"
-        },
-        {
-          "title": "特朗普给自己提名的美联储主席下马威：小心被起诉",
-          "url": "https://news.ifeng.com/c/8qOLT943YcA",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 06时34分]"
-        },
-        {
-          "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
-          "url": "https://www.cls.cn/detail/2277005",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "美国众议院议长约翰逊：特朗普在移民政策上可能会进行“重新调整”。 未来数日将就拨款法案展开 “富有成效的” 磋商。",
-          "url": "https://wallstreetcn.com/livenews/3047823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "如果特朗普下令美军入侵加拿大，会怎样？",
-          "url": "https://news.ifeng.com/c/8qPcsjs62Jx",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "哈梅内伊：伊朗人民不应该被特朗普的话吓倒",
-          "url": "https://news.ifeng.com/c/8qPOoB0E678",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32510036",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "特朗普：原本可解决拖欠联合国会费的问题",
-          "url": "https://flash.jin10.com/detail/20260202051310002800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "特朗普：美委将“分享”石油收益",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32510288",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "据华盛顿邮报：一位伊朗外交官表示，在目前情况下，任何谈判都不可能。特朗普提出的谈判条件既不切实际，也毫无谈判的余地。",
-          "url": "https://flash.jin10.com/detail/20260202042610304800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "特朗普称希望与伊朗“能够达成协议”",
-          "url": "https://flash.jin10.com/detail/20260202040920171800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-02）",
-          "url": "https://flash.jin10.com/detail/20260202181717877800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "特朗普再次表态：将与古巴达成协议",
-          "url": "https://flash.jin10.com/detail/20260202040727434800",
-          "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "特朗普回应被爱泼斯坦案文件提及",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E6%8F%90%E5%8F%8A%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "克里姆林宫：对于此前就俄罗斯应特朗普请求短暂暂停打击乌克兰能源基础设施一事所作表态，已无更多补充。",
-          "url": "https://flash.jin10.com/detail/20260202175246532800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
-          "url": "https://wallstreetcn.com/articles/3764687",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时33分 ~ 13时27分]"
-        },
-        {
-          "title": "【早报】金价巨震，银行密集提示风险；两只大牛股今日复牌",
-          "url": "https://www.cls.cn/detail/2276967",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
-          "url": "https://www.cls.cn/detail/2277020",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
-          "url": "https://www.zhihu.com/question/1999853811821463456",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 18时54分]"
-        },
-        {
-          "title": "男子看金价下跌花20多万买200克",
-          "url": "https://www.toutiao.com/trending/7600970812455845951/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 06时34分]"
-        },
-        {
-          "title": "杭州大爷在金价低位屯了1公斤",
-          "url": "https://www.toutiao.com/trending/7601449182562254857/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 22时51分]"
-        },
-        {
-          "title": "金价暴跌后黄金市场挤满顾客",
-          "url": "https://www.douyin.com/hot/2386891",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "金价史诗级暴跌是机会还是陷阱",
-          "url": "https://www.toutiao.com/trending/7602177874514988598/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "金价闪崩可以抄底了吗",
-          "url": "https://www.toutiao.com/trending/7602181563039632905/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "金价继续跳水：部分银行实物金条库存悄然松动，投资情绪降温",
-          "url": "https://wallstreetcn.com/livenews/3048273",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "黄金暴跌为何瑞银却上调金价目标",
-          "url": "https://www.toutiao.com/trending/7602143255571992083/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "金银深V遭沪盘打压，现货黄金跌破4600美元关口、沪银跌17%、沪金跌超10%，美股期货、原油走低",
-          "url": "https://wallstreetcn.com/articles/3764699",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "Strategy美股盘初跌6.9%。ProShares跌12.7%，Strive跌8.3%，网红券商Robinhood跌8.3%，Bitcoin Depot跌7.9%，IBIT跌6.3%，Circle跌5.3%，Bakkt跌3.6%，Bullish跌2.6%，特朗普媒体科技集团跌2.2%，亿邦国际涨2.3%。",
-          "url": "https://wallstreetcn.com/livenews/3048418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "能源业ETF跌1.6%，在美股盘初领跌行业ETF，可选消费ETF跌0.8%，全球科技股指数ETF跌0.2%，半导体ETF、科技行业ETF涨幅不到0.5%。 标普500指数的11个板块中，能源板块盘初跌超2.1%。",
-          "url": "https://wallstreetcn.com/livenews/3048416",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "黄金白银剧烈波动 美股三大期指集体下跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2278222",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "金十图示：2026年02月02日（周一）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260202223645296800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "美股开盘，道指跌0.1%，标普500指数跌0.32%，纳指跌0.39%。甲骨文(ORCL.N)涨3.8%，公司计划筹资至高500亿美元且启动美元债发行。美国稀土公司涨7.2%，据报道特朗普拟设120亿美元关键矿产战略储备。",
-          "url": "https://flash.jin10.com/detail/20260202223031396800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "贵金属普遍遭抛售，美股锂矿商盘前下跌。",
-          "url": "https://flash.jin10.com/detail/20260202180049726800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3048399",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
+          "time_info": "13时18分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
         {
-          "title": "黄仁勋澄清：对OpenAI的千亿投资\"从未承诺\"，英伟达将逐步评估",
-          "url": "https://wallstreetcn.com/articles/3764694",
-          "source": "华尔街见闻",
+          "title": "OpenAI将重点放在ChatGPT的研发上，而非进行更长期的研究，这导致公司高层人员离职。",
+          "url": "https://flash.jin10.com/detail/20260203130436001800",
+          "source": "金十数据",
           "ranks": [
-            10,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时33分 ~ 13时27分]"
-        },
-        {
-          "title": "Snowflake与OpenAI达成2亿美元、持续多年的合作伙伴关系。 双方将共同开发企业级AI解决方案。",
-          "url": "https://wallstreetcn.com/livenews/3048404",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时51分"
+          "time_info": "13时18分"
         },
         {
-          "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
-          "url": "https://wallstreetcn.com/livenews/3047808",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI战略大转舵 全速冲刺ChatGPT商业化",
+          "url": "https://flash.jin10.com/detail/20260203130348456800",
+          "source": "金十数据",
           "ranks": [
-            20
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "迪士尼首席执行官：仍在“梳理OpenAI交易的所有技术细节”。",
-          "url": "https://flash.jin10.com/detail/20260202221537167800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "迪士尼首席执行官：迪士尼希望与OpenAI的交易能推动其在Disney+上提供短视频的能力。",
-          "url": "https://flash.jin10.com/detail/20260202220631439800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "Snowflake盘前上涨2.6%，此前该公司与OpenAI达成2亿美元的合作伙伴关系。",
-          "url": "https://flash.jin10.com/detail/20260202220614192800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
+          "time_info": "13时18分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "keyword_group": "美股",
+      "match_count": 2,
       "titles": [
         {
-          "title": "下周重磅日程：美非农、欧英央行决议、日本大选、伊朗局势、谷歌亚马逊AMD财报",
-          "url": "https://wallstreetcn.com/articles/3764656",
+          "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3764730",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            4,
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时33分 ~ 18时54分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
         {
-          "title": "独家|担忧价格与交割风险，多家黄金供应商暂停春节前银行现货金条供应",
-          "url": "https://www.cls.cn/detail/2278016",
+          "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
+          "url": "https://www.cls.cn/detail/2278378",
           "source": "财联社热门",
           "ranks": [
-            3
+            2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时51分"
+          "time_info": "13时18分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美伊或开启核谈判，伊朗释放双重信号",
+          "url": "https://news.ifeng.com/c/8qR1zmFfMjv",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
+          "title": "伊朗总统已下令与美开展核问题专项谈判，有何考量？此次外交行动会打破僵局吗？",
+          "url": "https://www.zhihu.com/question/2001732629960081618",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "避险需求推升美债 沃什任命引发降息与缩表猜测",
-          "url": "https://flash.jin10.com/detail/20260202215501935800",
-          "source": "金十数据",
+          "title": "金价究竟涨到多少才算过高？摩根大通给出预期：8000美元以上",
+          "url": "https://www.cls.cn/detail/2278518",
+          "source": "财联社热门",
           "ranks": [
-            28
+            6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时51分"
+          "time_info": "13时18分"
         }
       ]
     }
