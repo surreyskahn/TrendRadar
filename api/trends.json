@@ -1,519 +1,193 @@
 {
-  "generated_at": "2026-02-04T22:50:22.209294+08:00",
-  "total_titles_processed": 986,
+  "generated_at": "2026-02-05T06:37:53.579420+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 33,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 12,
       "titles": [
         {
-          "title": "民主党人炸锅：这么搞是吧，特朗普一家子都等着！",
-          "url": "https://news.ifeng.com/c/8qStNzAAUTW",
-          "source": "凤凰网",
+          "title": "谷歌母公司Alphabet ：我们大约50%的代码由AI代理编写。",
+          "url": "https://wallstreetcn.com/livenews/3050126",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 18时50分]"
-        },
-        {
-          "title": "特朗普：普京遵守了停火承诺，那边真的很冷",
-          "url": "https://news.ifeng.com/c/8qT0zrMPdcp",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 18时50分]"
-        },
-        {
-          "title": "习近平同美国总统特朗普通电话",
-          "url": "https://www.toutiao.com/trending/7603003215299149878/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "习近平同特朗普通电话",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "习近平同美国总统特朗普通电话",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "特朗普希望中国也加入核军控谈判，中方回应",
-          "url": "https://news.ifeng.com/c/8qRbfAGXhdh",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "习近平同特朗普通电话",
-          "url": "https://www.douyin.com/hot/2389904",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
-          "url": "https://news.ifeng.com/c/8qRnEtgNGZK",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
-          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
-          "source": "凤凰网",
-          "ranks": [
-            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 18时50分]"
-        },
-        {
-          "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
-          "url": "https://www.cls.cn/detail/2280009",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 18时50分]"
-        },
-        {
-          "title": "习近平同美国总统特朗普通电话",
-          "url": "https://wallstreetcn.com/articles/3764980",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时50分"
+          "time_info": "06时37分"
         },
         {
-          "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
-          "url": "https://news.ifeng.com/c/8qSsdnqx4JM",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "美国总统特朗普：是时候翻过爱泼斯坦丑闻这一页了。",
-          "url": "https://flash.jin10.com/detail/20260204061551878800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
-          "url": "https://news.ifeng.com/c/8qRsRpYySJZ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "美国总统特朗普重申对医疗保险行业的批零。",
-          "url": "https://wallstreetcn.com/livenews/3049354",
+          "title": "谷歌母公司Alphabet研发（R&D）开支增长42%，受到AI人才和无人驾驶部门的驱动。 科技基础设施投资中，60%投入服务器、40%投入数据中心。 科技基建（投资）的增幅在2025年收缩38%。 谷歌云（订单）积压同比超过翻倍，至2400亿美元。 Alphabet在Waymo本轮融资中贡献重大。",
+          "url": "https://wallstreetcn.com/livenews/3050124",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时38分"
+          "time_info": "06时37分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-04）",
-          "url": "https://flash.jin10.com/detail/20260204181439687800",
-          "source": "金十数据",
+          "title": "谷歌母公司Alphabet：所搜同比增长17%。 YouTube 9%的增长来自直接响应的广告。 公司在AI模型中测试广告。",
+          "url": "https://wallstreetcn.com/livenews/3050117",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时50分"
+          "time_info": "06时37分"
         },
         {
-          "title": "美国总统特朗普：攫取的数百万桶委内瑞拉石油正运往得州休斯敦。",
-          "url": "https://wallstreetcn.com/livenews/3049351",
+          "title": "谷歌母公司Alphabet：谷歌Gemini服务部门成本较2025年下调78%。 YouTube年收入突破600亿美元。 Alphabet按优先云供应商的身份与苹果公司合作。 Gemini企业用户超过12万，同比增幅65%。 AI Solutions收入同比增长超过300%。 12月份，自动驾驶部门Waymo出行次数超过2000万。 直播间设备商Podcast观众较2025年增长75%。",
+          "url": "https://wallstreetcn.com/livenews/3050115",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时38分"
+          "time_info": "06时37分"
         },
         {
-          "title": "美伊会谈前生两起摩擦 特朗普：本周的谈判仍在继续",
-          "url": "https://flash.jin10.com/detail/20260204060809275800",
+          "title": "Alphabet(GOOG.O)高管：谷歌云的积压订单环比增长55%，同比增长一倍多，截至第四季度末达到2400亿美元。",
+          "url": "https://flash.jin10.com/detail/20260205055948666800",
           "source": "金十数据",
           "ranks": [
-            17
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时38分"
+          "time_info": "06时37分"
         },
         {
-          "title": "特朗普与爱泼斯坦聚会视频曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E8%81%9A%E4%BC%9A%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时50分"
-        },
-        {
-          "title": "特朗普称正与伊朗进行谈判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32529283",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "特朗普面对爱泼斯坦案追问怒斥CNN记者：你连微笑都没有，难怪你们没人看",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32529746",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "美国边境事务负责人霍曼：美国总统特朗普打算实施大规模驱逐出境，移民执法将每天持续进行。",
-          "url": "https://flash.jin10.com/detail/20260204221323459800",
+          "title": "Alphabet(GOOG.O)CEO皮查伊：苹果(AAPL.O)选择谷歌云作为其首选云服务提供商。",
+          "url": "https://flash.jin10.com/detail/20260205055519813800",
           "source": "金十数据",
           "ranks": [
-            19
+            16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时50分"
+          "time_info": "06时37分"
         },
         {
-          "title": "提醒：美国总统特朗普签署法案，结束部分政府的关门状态。",
-          "url": "https://wallstreetcn.com/livenews/3049345",
+          "title": "谷歌A美股盘后转涨，此前一度重挫超7%。",
+          "url": "https://wallstreetcn.com/livenews/3050110",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时38分"
+          "time_info": "06时37分"
         },
         {
-          "title": "美国副总统万斯：确认总统特朗普关于关键矿物“价格地板”的提议。",
-          "url": "https://wallstreetcn.com/livenews/3049943",
+          "title": "谷歌营收业绩超预期，2026年资本开支超预期",
+          "url": "https://wallstreetcn.com/livenews/3050103",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "特朗普称有问题的是比尔盖茨那些人",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9C%89%E9%97%AE%E9%A2%98%E7%9A%84%E6%98%AF%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E9%82%A3%E4%BA%9B%E4%BA%BA%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时38分"
+          "time_info": "06时37分"
         },
         {
-          "title": "在特朗普签署政府拨款法案现场，没有一位记者向特朗普提问关于今日悬挂美国国旗油轮遭扣押未遂及伊朗沙赫德-139无人机被击落的事件。",
-          "url": "https://flash.jin10.com/detail/20260204060246322800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "据英国《金融时报》：美国参议员推动700亿美元融资协议，以支持美国总统特朗普的关键矿物议程。",
-          "url": "https://flash.jin10.com/detail/20260204180151298800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时50分"
-        },
-        {
-          "title": "美国总统特朗普：俄罗斯履行了一周内不袭击基辅的承诺。",
-          "url": "https://flash.jin10.com/detail/20260204055823111800",
+          "title": "英伟达(NVDA.O)和AMD(AMD.O)盘后均涨超1%，谷歌(GOOG.O)大幅上调资本开支预期。",
+          "url": "https://flash.jin10.com/detail/20260205051339983800",
           "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时38分"
+          "time_info": "06时37分"
         },
         {
-          "title": "美国总统特朗普：来自委内瑞拉的石油正运往休斯顿。",
-          "url": "https://flash.jin10.com/detail/20260204055217365800",
+          "title": "谷歌(GOOG.O)盘后逆转6%的跌幅，现涨1%。",
+          "url": "https://flash.jin10.com/detail/20260205050944063800",
           "source": "金十数据",
           "ranks": [
-            26
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时38分"
+          "time_info": "06时37分"
         },
         {
-          "title": "美国总统特朗普：联邦政府应介入选举事务。",
-          "url": "https://flash.jin10.com/detail/20260204054655936800",
+          "title": "Alphabet(GOOGL.O)：谷歌云收入增长48%至177亿美元，主要得益于企业对AI基础设施（GCP）及AI解决方案的需求增长，核心GCP产品亦表现强劲。",
+          "url": "https://flash.jin10.com/detail/20260205050807413800",
           "source": "金十数据",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时38分"
+          "time_info": "06时37分"
         },
         {
-          "title": "美国总统特朗普：我希望普京结束战争。",
-          "url": "https://flash.jin10.com/detail/20260204054601265800",
+          "title": "Alphabet(GOOGL.O)：Q4谷歌服务营收增长了14%，达到959亿美元，主要由Google搜索及其他业务（增长17%）、订阅与平台设备业务（增长17%）及YouTube广告业务（增长9%）驱动。",
+          "url": "https://flash.jin10.com/detail/20260205050719759800",
           "source": "金十数据",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "特朗普签署拨款法案 结束政府部分“停摆”",
-          "url": "https://flash.jin10.com/detail/20260204054530295800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "特朗普称普京兑现了“能源停火”承诺",
-          "url": "https://wallstreetcn.com/livenews/3049533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时13分"
+          "time_info": "06时37分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 10,
       "titles": [
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
           "url": "https://wallstreetcn.com/articles/3764793",
           "source": "华尔街见闻",
           "ranks": [
-            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时13分 ~ 22时50分]"
-        },
-        {
-          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
-          "url": "https://wallstreetcn.com/articles/3764882",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时13分 ~ 22时50分]"
+          "appearance_count": 1,
+          "time_info": "06时37分"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
           "url": "https://www.zhihu.com/question/2002302871203440223",
           "source": "知乎",
           "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时13分 ~ 22时50分]"
-        },
-        {
-          "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3764730",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
-          "url": "https://www.cls.cn/detail/2279710",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "美伊对峙升温：美军击落伊朗无人机 油价走强美股承压",
-          "url": "https://www.cls.cn/detail/2279689",
-          "source": "财联社热门",
-          "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时13分"
+          "time_info": "06时37分"
         },
         {
-          "title": "美股黄金股上涨，纽蒙特矿业(NEM.N)涨2.3%，巴里克黄金(GOLD.N)涨1.9%。",
-          "url": "https://flash.jin10.com/detail/20260204223418245800",
+          "title": "Ciena美股盘后涨超8%。",
+          "url": "https://flash.jin10.com/detail/20260205062053364800",
           "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "现货黄金短线从5037美元附近跳水，逼近4967美元，日内整体涨幅迅速收窄至0.5%。 现货白银回落至89美元一线，目前涨4.6%，美股盘前还曾涨至92.2043美元。",
-          "url": "https://wallstreetcn.com/livenews/3049959",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
-          "url": "https://wallstreetcn.com/articles/3764901",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时50分"
+          "time_info": "06时37分"
         },
         {
           "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
           "url": "https://wallstreetcn.com/articles/3764895",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时13分 ~ 22时50分]"
-        },
-        {
-          "title": "美股地区银行指数创盘中历史新高，一度涨约2%，至140.77点——突破2022年1月18日顶部140.11点。",
-          "url": "https://wallstreetcn.com/livenews/3049957",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时50分"
+          "time_info": "06时37分"
         },
         {
           "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
@@ -522,125 +196,164 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时50分"
+          "time_info": "06时37分"
         },
         {
-          "title": "美股开盘，道指涨0.17%，标普500指数涨0.1%，纳指跌0.16%。AMD(AMD.O)大跌11%，公司预计第一季度营收将小幅下滑。超微电脑(SMCI.O)大涨10%，公司上调年度营收预期。",
-          "url": "https://flash.jin10.com/detail/20260204223022747800",
+          "title": "（美股）费城金银指数收跌0.23%，报397.53点。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.55%，报2830.82点。 （美股）原材料指数收涨0.57%，（美股）金属与矿业指数收跌1.61%。",
+          "url": "https://wallstreetcn.com/livenews/3050123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "相干公司Coherent Corp.（COHR）美股盘后跌19%。",
+          "url": "https://wallstreetcn.com/livenews/3050105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "Arm(ARM.O)美股盘后跌超10%。",
+          "url": "https://flash.jin10.com/detail/20260205051229076800",
           "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5000美元关口",
-          "url": "https://wallstreetcn.com/articles/3764901",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2279540",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "区域银行ETF涨2.47%，银行业ETF涨1.91%，能源业ETF涨1.34%，领跑美股行业ETF，半导体ETF跌1.71%。",
-          "url": "https://wallstreetcn.com/livenews/3049948",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "【超微电脑上调全年净销售指引，股价盘后涨8%】超微电脑第二财季净销售126.8亿美元，分析师预期104.3亿美元。 预计全年净销售至少400亿美元，公司原本预计至少360亿美元。 预计第三财季净销售至少123亿美元，分析师预期102.5亿美元。 超微电脑美股盘后涨8%。",
-          "url": "https://wallstreetcn.com/livenews/3049352",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "（美股）费城金银指数收涨4.63%，报398.43点。 （全球时段）纽约证交所ARCA金矿开采商指数涨4.29%，报2815.40点。 （美股）原材料指数收涨4.04%，金属与矿业指数收涨5.35%。",
-          "url": "https://wallstreetcn.com/livenews/3049350",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周二（2月3日），美国科技股七巨头（Magnificent 7）指数跌1.68%，报203.68点，日内主要低位震荡。 “超大”市值科技股指数跌1.90%，报387.08点，日内大部分时间也低位震荡。",
-          "url": "https://wallstreetcn.com/livenews/3049340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3049937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "Take-Two Interactive Software第三财季净预定17.6亿美元，分析师预期15.8亿美元。 预计全年净预定66.5亿-67.0亿美元，分析师预期64.7亿美元。 预计第四财季净预定15.1亿-15.6亿美元，分析师预期15.4亿美元。 TTWO美股盘后涨5%。",
-          "url": "https://wallstreetcn.com/livenews/3049338",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时38分"
+          "time_info": "06时37分"
         },
         {
-          "title": "AMD四季度营收102.7亿美元，分析师预期96.5亿美元。 四季度调整后每股收益（EPS）为1.53美元，分析师预期1.32美元。 四季度运营利润28.5亿美元，分析师预期24.7亿美元。 四季度运营利润率28%，分析师预期25.4%。 四季度研发开支23.3亿美元，分析师预期21.6亿美元。 四季度资本开支2.22亿美元，分析师预期2.314亿美元。 预计一季度营收95亿-101亿美元，分析师预期93.9亿美元。 预计一季度调整后毛利润率大约55%，分析师预期54.5%。 AMD美股盘后跌4%。",
-          "url": "https://wallstreetcn.com/livenews/3049337",
+          "title": "纳斯达克金龙中国指数收跌1.95%，报7461.61点，美股早盘显著下跌，北京时间23:00以来低位震荡。 热门中概股里，亿珑能源初步反弹64%，晶科能源涨8%，百胜中国涨4.6%，再鼎医药涨3.7%，阿特斯太阳能涨3.3%，理想涨2.2%，网易跌5.3%，世纪互联跌5.6%，文远知行跌6.3%。 ETF中，中国科技指数ETF（CQQQ）收跌3.17%，中概互联网指数ETF（KWEB）收跌2.91%。 XtrackersHarvest中证50（ASHS）收涨0.09%，德银嘉实沪深300指数ETF（ASHR）收涨0.72%。",
+          "url": "https://wallstreetcn.com/livenews/3050099",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时38分"
+          "time_info": "06时37分"
+        },
+        {
+          "title": "周三（2月4日）美股尾盘，彭博电动汽车价格回报指数涨0.65%，报3533.63点。 该指数全天处于上涨状态，整体呈现出“几”形走势，北京时间14:00-00:00高位震荡，最高在美股盘初达到3561.87点。 成分股宝马收涨3.88%，Ola Electric Mobility Ltd.涨3.6%，意法半导体收涨3.6%，保时捷P911涨3.5%，理想汽车H股收涨3.43%，浙江零跑科技H股收涨2.88%表现第六，智利化工矿业公司（SQM）则跌5.3%，MP材料跌6.2%，文远知行跌7.2%，Solid Power跌9.5%。",
+          "url": "https://wallstreetcn.com/livenews/3050096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "习近平同特朗普通电话",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "习近平同特朗普通电话",
+          "url": "https://www.douyin.com/hot/2389904",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://wallstreetcn.com/articles/3764980",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
+          "url": "https://news.ifeng.com/c/8qTDVc9qcbD",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "详讯丨习近平同美国总统特朗普通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32535525",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "特朗普政府为何急于将爱泼斯坦案翻篇",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E4%B8%BA%E4%BD%95%E6%80%A5%E4%BA%8E%E5%B0%86%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E7%BF%BB%E7%AF%87%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32534170",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时37分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 3,
       "titles": [
         {
           "title": "美军称击落伊朗无人机，双方在危险的边缘互相试探？",
@@ -649,246 +362,48 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时50分"
+          "time_info": "06时37分"
         },
         {
           "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32529750",
           "source": "澎湃新闻",
           "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时50分 ~ 22时50分]"
-        },
-        {
-          "title": "美军击落伊朗无人机",
-          "url": "https://www.douyin.com/hot/2388820",
-          "source": "抖音",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 18时50分]"
-        },
-        {
-          "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
-          "url": "https://wallstreetcn.com/articles/3764876",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时50分 ~ 22时50分]"
-        },
-        {
-          "title": "如何看待美国在阿拉伯海击落伊朗无人机？",
-          "url": "https://www.zhihu.com/question/2002278954355139608",
-          "source": "知乎",
-          "ranks": [
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 18时50分]"
-        },
-        {
-          "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32520089",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时38分"
+          "time_info": "06时37分"
         },
         {
-          "title": "美军：击落一架“挑衅性”接近美军航母的伊朗无人机",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32527648",
-          "source": "澎湃新闻",
+          "title": "伊朗外长：伊美谈判将于6日在阿曼首都马斯喀特举行",
+          "url": "https://news.ifeng.com/c/8qTBVSJTlkn",
+          "source": "凤凰网",
           "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "伊朗：一架无人机在公海执行合法侦察活动时失联",
-          "url": "https://wallstreetcn.com/livenews/3049333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
-          "url": "https://www.cls.cn/detail/2279758",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "OpenAI就ChatGPT故障问题发表声明：所有受影响的服务现已完全恢复。",
-          "url": "https://flash.jin10.com/detail/20260204062113821800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "OpenAI：ChatGPT有关问题现已解决。",
-          "url": "https://flash.jin10.com/detail/20260204115251438800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "OpenAI：ChatGPT部分用户在加载或开始对话时可能会遇到问题。",
-          "url": "https://flash.jin10.com/detail/20260204115113569800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "OpenAI的CEO Altman：Dylan Scandinaro加盟本公司，担任Preparedness（筹备）部门主管。",
-          "url": "https://wallstreetcn.com/livenews/3049343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "亚马逊讨论接入OpenAI技术的特殊渠道。 亚马逊可能会在自家Alexa采用定制的OpenAI模型。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3049936",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
+          "time_info": "06时37分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
-          "url": "https://www.zhihu.com/question/1999853061464614005",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "世界黄金协会：黄金价格波动不小，与股票的表现存在不对称性",
-          "url": "https://flash.jin10.com/detail/20260204221245663800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "金价创2009年以来最大单日涨幅",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%88%9B2009%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%8D%95%E6%97%A5%E6%B6%A8%E5%B9%85%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时50分"
-        },
-        {
-          "title": "金价暴力反弹重上5000美元",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E5%8A%9B%E5%8F%8D%E5%BC%B9%E9%87%8D%E4%B8%8A5000%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "120倍回报、千亿美元浮盈，SpaceX上市的隐藏大赢家——谷歌！",
-          "url": "https://wallstreetcn.com/articles/3764858",
-          "source": "华尔街见闻",
+          "title": "金价巨震之下，水贝难寻金条现货|传真",
+          "url": "https://www.cls.cn/detail/2280847",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时38分 ~ 18时50分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数3日下跌",
-          "url": "https://flash.jin10.com/detail/20260204060820348800",
-          "source": "金十数据",
-          "ranks": [
-            16
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时38分"
+          "time_info": "06时37分"
         }
       ]
     }
