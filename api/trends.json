@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T19:44:28.027107+08:00",
-  "total_titles_processed": 746,
+  "generated_at": "2026-05-31T23:21:41.195319+08:00",
+  "total_titles_processed": 914,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 33,
       "titles": [
         {
           "title": "伊朗准备为哈梅内伊举行盛大葬礼",
@@ -53,6 +53,17 @@
           "time_info": "[15时49分 ~ 19时44分]"
         },
         {
+          "title": "美国财长贝森特：霍尔木兹海峡必须恢复至（美国和以色列挑起伊朗战争）之前的水平。 海峡关闭直接造成化肥价格上涨。",
+          "url": "https://wallstreetcn.com/livenews/3111960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "伊朗称对霍尔木兹海峡航运实施全面管理",
           "url": "https://flash.jin10.com/detail/20260531043022329800",
           "source": "金十数据",
@@ -70,9 +81,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
+        },
+        {
+          "title": "伊朗国家媒体：伊朗伊斯兰革命卫队对伊拉克北部的“分离主义组织”据点实施了打击。",
+          "url": "https://wallstreetcn.com/livenews/3111959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗格什姆岛传出爆炸声。目前尚不清楚爆炸声响的性质和来源。",
@@ -81,9 +103,53 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
+        },
+        {
+          "title": "伊朗国家安全与外交政策委员会成员科萨里表示，核问题已被排除在谈判桌之外；目前尚未达成最终协议。（伊朗学生通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3111958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
+          "title": "伊朗总统：在面临重大挑战的情况下，任何社会都不能指望在不承受困难的情况下继续前进。",
+          "url": "https://flash.jin10.com/detail/20260531222651091800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
+          "title": "伊朗总统：有必要向人民坦诚现状，以便他们能够在应对挑战中发挥作用。",
+          "url": "https://flash.jin10.com/detail/20260531222643310800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
+          "title": "伊朗总统：我们的一些经济问题源于外部制约，另一些则是由于当前形势带来的压力。",
+          "url": "https://flash.jin10.com/detail/20260531222637121800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "伊朗称对霍尔木兹海峡航运实施全面管理",
@@ -125,7 +191,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -147,7 +213,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -158,7 +224,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -169,9 +235,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
+        },
+        {
+          "title": "伊朗议员：核问题不在谈判议程中 聚焦彻底结束战争",
+          "url": "https://flash.jin10.com/detail/20260531215927555800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "联合海上信息中心：美军仍在封锁伊朗港口",
@@ -191,9 +268,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
+        },
+        {
+          "title": "据伊朗国家媒体报道，伊朗伊斯兰革命卫队打击了伊拉克北部的“分离主义组织”据点。",
+          "url": "https://flash.jin10.com/detail/20260531215434150800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "伊朗伊斯兰革命卫队称击落一架美军MQ-1无人机",
@@ -224,7 +312,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -246,7 +334,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -268,7 +356,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -287,7 +375,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
@@ -298,8 +386,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时49分 ~ 19时44分]"
+          "appearance_count": 4,
+          "time_info": "[15时49分 ~ 23时21分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-31）",
@@ -308,9 +396,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
+        },
+        {
+          "title": "美国总统特朗普：Tom Barrack将兼任土耳其大使和叙利亚特使。",
+          "url": "https://wallstreetcn.com/livenews/3111962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "特朗普要求修改特使谈成的伊朗协议，美国封杀霍尔木兹“买路钱”",
@@ -346,6 +445,17 @@
           "time_info": "[15时49分 ~ 15时50分]"
         },
         {
+          "title": "美媒：特朗普对拟议协议的修改导致美伊谈判延长一周",
+          "url": "https://flash.jin10.com/detail/20260531225247736800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "美伊局势迷雾重重：特朗普被曝推迟作“最终决定” 双方仍各说各话",
           "url": "https://www.cls.cn/detail/2385988",
           "source": "财联社热门",
@@ -379,6 +489,17 @@
           "time_info": "07时06分"
         },
         {
+          "title": "美国总统特朗普：我们也将继续推进与叙利亚和伊拉克政府的战略合作，因此我们与他们的关系将持续加深！",
+          "url": "https://flash.jin10.com/detail/20260531221123279800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
           "url": "https://www.zhihu.com/question/2043956365022814533",
           "source": "知乎",
@@ -399,6 +520,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
+        },
+        {
+          "title": "美国总统特朗普：我很高兴地宣布，美国驻土耳其大使Tom Barrack在工作中表现出色，他将被任命为叙利亚和伊拉克事务的特别总统特使。",
+          "url": "https://flash.jin10.com/detail/20260531221054605800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "美官员透露：特朗普提出更强硬条款 试图施压伊朗加快谈判进程",
@@ -468,9 +600,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时44分 ~ 23时21分]"
         },
         {
           "title": "为什么无论是 chatgpt 还是 deepseek 都会在 24 点游戏上表现的这么差？",
@@ -511,6 +643,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时06分 ~ 15时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI模型推翻80年的数学经典猜想，引发学界震动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33276037",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         }
       ]
     }
