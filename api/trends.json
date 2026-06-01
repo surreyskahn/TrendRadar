@@ -1,56 +1,88 @@
 {
-  "generated_at": "2026-06-01T17:32:16.384406+08:00",
-  "total_titles_processed": 603,
+  "generated_at": "2026-06-02T00:11:08.395973+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
-          "title": "伊朗总统已向最高领袖提出辞职？官方回应",
-          "url": "https://news.ifeng.com/c/8taeRM6Zu8b",
-          "source": "凤凰网",
+          "title": "国际油价短线拉升，报道：伊朗将暂停与美国沟通，已决定全面封锁霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3773592",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
         },
         {
-          "title": "伊朗议会议长：美国违反停火协议",
-          "url": "https://wallstreetcn.com/livenews/3112320",
+          "title": "调查显示，随着3月伊朗局势冲击消退，英国公众5月通胀预期进一步放缓",
+          "url": "https://wallstreetcn.com/livenews/3112557",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时32分"
+          "time_info": "00时11分"
         },
         {
-          "title": "中东停火再遭挑战：伊朗打击美军基地 以色列扩大在黎军事行动",
-          "url": "https://www.cls.cn/detail/2386651",
-          "source": "财联社热门",
+          "title": "伊朗中央司令部：如果以色列袭击贝鲁特，我方将警告以色列北部那些不希望遭到伤害的居民撤离。",
+          "url": "https://wallstreetcn.com/livenews/3112556",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时32分"
+          "time_info": "00时11分"
         },
         {
-          "title": "战争阴霾笼罩世界杯，伊朗国家队运动员仍未获得赴美签证",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33276489",
-          "source": "澎湃新闻",
+          "title": "伊朗暂停与美国对话！“霍尔木兹、曼德海峡双封锁”重新摆上台面",
+          "url": "https://www.cls.cn/detail/2387611",
+          "source": "财联社热门",
           "ranks": [
-            11,
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        },
+        {
+          "title": "伊朗：彻底封锁霍尔木兹海峡",
+          "url": "https://www.toutiao.com/trending/7646419297488604708/",
+          "source": "今日头条",
+          "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时08分 ~ 17时32分]"
+          "time_info": "[00时10分 ~ 00时11分]"
+        },
+        {
+          "title": "伊朗计划彻底封锁霍尔木兹海峡",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%AE%A1%E5%88%92%E5%BD%BB%E5%BA%95%E5%B0%81%E9%94%81%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
+        },
+        {
+          "title": "伊朗计划彻底封锁霍尔木兹",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%AE%A1%E5%88%92%E5%BD%BB%E5%BA%95%E5%B0%81%E9%94%81%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
         },
         {
           "title": "伊朗总统：要么强硬前行，要么牺牲",
@@ -61,145 +93,195 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时31分 ~ 17时32分]"
+          "time_info": "[00时10分 ~ 00时11分]"
         },
         {
-          "title": "伊朗宣布打击并摧毁美军目标",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E6%89%93%E5%87%BB%E5%B9%B6%E6%91%A7%E6%AF%81%E7%BE%8E%E5%86%9B%E7%9B%AE%E6%A0%87",
-          "source": "百度热搜",
+          "title": "伊朗外交部：美伊谅解备忘录缺不得黎巴嫩停火",
+          "url": "https://news.ifeng.com/c/8tbSvd3YFSk",
+          "source": "凤凰网",
           "ranks": [
-            24
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时31分 ~ 17时32分]"
+          "time_info": "[00时10分 ~ 00时11分]"
         },
         {
-          "title": "伊朗外交部：伊朗武装部队回击美军“侵略行动”",
-          "url": "https://wallstreetcn.com/livenews/3112312",
+          "title": "美以袭击伊朗进入第 94 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2044559354460731245",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
+        },
+        {
+          "title": "伊朗谈判团队暂停通过中间人同美国对话",
+          "url": "https://www.toutiao.com/trending/7646198408432566313/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
+        },
+        {
+          "title": "伊朗暂停通过中间人同美国的对话，计划彻底封锁霍尔木兹海峡并启动曼德海峡「战线」，中东局势会如何发展？",
+          "url": "https://www.zhihu.com/question/2044892898404066375",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
+        },
+        {
+          "title": "伊朗暂停通过中间人同美国的对话",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9A%82%E5%81%9C%E9%80%9A%E8%BF%87%E4%B8%AD%E9%97%B4%E4%BA%BA%E5%90%8C%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%B9%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
+        },
+        {
+          "title": "伊朗中央军事指挥部：如果以色列对贝鲁特发动攻击，我们警告以色列北部居民离开，以免受到伤害。",
+          "url": "https://flash.jin10.com/detail/20260601233845373800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        },
+        {
+          "title": "伊朗伊斯兰共和国广播电视台（IRIB）：在美国-以色列（USrael）的所作所为之后，词典编辑应该重新考虑“停火”这个词的定义。",
+          "url": "https://flash.jin10.com/detail/20260601233738011800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        },
+        {
+          "title": "伊朗外交部：与土耳其讨论以色列袭击黎巴嫩。",
+          "url": "https://wallstreetcn.com/livenews/3112550",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时32分"
+          "time_info": "00时11分"
         },
         {
-          "title": "伊朗总统府再度否认佩泽希齐扬辞职传闻",
-          "url": "https://wallstreetcn.com/livenews/3111984",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗：彻底封锁霍尔木兹海峡",
+          "url": "https://www.douyin.com/hot/2520417",
+          "source": "抖音",
           "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "伊朗议会议长：美海上封锁及纵容以升级对黎军事打击皆证明其违反停火协议",
-          "url": "https://flash.jin10.com/detail/20260601171352185800",
-          "source": "金十数据",
-          "ranks": [
-            15
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时32分"
+          "time_info": "00时11分"
         },
         {
-          "title": "伊官员称伊朗不会对美退让妥协",
-          "url": "https://wallstreetcn.com/livenews/3111985",
+          "title": "南非泰格品牌警告称，受伊朗战争影响可能将上调产品价格",
+          "url": "https://wallstreetcn.com/livenews/3112546",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时08分"
+          "time_info": "00时11分"
         },
         {
-          "title": "伊官员称伊朗在核问题上对美方没有任何承诺",
-          "url": "https://wallstreetcn.com/livenews/3111982",
+          "title": "伊朗国家电视台：如果对黎巴嫩的攻击不停止，伊朗与美国之间停火协议破裂的可能性很高。",
+          "url": "https://wallstreetcn.com/livenews/3112544",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时08分"
+          "time_info": "00时11分"
         },
         {
-          "title": "知情人士称伊朗可能将对谅解备忘录文本提出新的修订意见",
-          "url": "https://wallstreetcn.com/livenews/3111977",
+          "title": "伊朗媒体发布击落MQ-1无人机视频",
+          "url": "https://wallstreetcn.com/livenews/3112542",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时08分"
+          "time_info": "00时11分"
         },
         {
-          "title": "巴基斯坦通胀升至两年来新高，因伊朗战争导致能源成本上涨",
-          "url": "https://flash.jin10.com/detail/20260601170839727800",
+          "title": "伊朗高级官员莫赫森·礼萨伊：霍尔木兹海峡处于伊朗的管理之下。我们不会允许海上封锁持续下去，也不会容忍黎巴嫩局势进一步升级。伊朗武装力量的耐心是有限度的。",
+          "url": "https://flash.jin10.com/detail/20260601233018466800",
           "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时32分"
-        },
+          "time_info": "00时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
         {
-          "title": "伊朗外长：谈判结果明确前 一切都是猜测",
-          "url": "https://wallstreetcn.com/livenews/3111973",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗称将全面封锁霍尔木兹，美股低开，IBM涨近9%，ARM大涨12%，美油涨6%",
+          "url": "https://wallstreetcn.com/articles/3773537",
+          "source": "华尔街见闻",
           "ranks": [
-            20
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
         },
         {
-          "title": "伊朗袭击科威特美军基地致7人轻伤 均已恢复执勤",
-          "url": "https://wallstreetcn.com/livenews/3111974",
-          "source": "华尔街见闻-快讯",
+          "title": "AI交易火力全开 美股不断创新高",
+          "url": "https://www.toutiao.com/trending/7646416034273955371/",
+          "source": "今日头条",
           "ranks": [
-            21
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
         },
         {
-          "title": "伊朗军官：将与敌人的过分要求和霸权行径战斗到最后一刻",
-          "url": "https://wallstreetcn.com/livenews/3111975",
-          "source": "华尔街见闻-快讯",
+          "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2387523",
+          "source": "财联社热门",
           "ranks": [
-            22
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "美国财长贝森特：霍尔木兹海峡必须恢复至（美国和以色列挑起伊朗战争）之前的水平。 海峡关闭直接造成化肥价格上涨。",
-          "url": "https://wallstreetcn.com/livenews/3111960",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
+          "time_info": "00时11分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 3,
       "titles": [
         {
           "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
@@ -210,129 +292,29 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时31分 ~ 17时32分]"
+          "time_info": "[00时10分 ~ 00时11分]"
         },
         {
-          "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
-          "url": "https://wallstreetcn.com/articles/3773514",
-          "source": "华尔街见闻",
+          "title": "黎巴嫩议会议长告诉特朗普政府，真主党已准备好与以色列全面停火，并承诺保证停火协议的执行。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3112554",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "多名艺人辞演后特朗普决定自己上台",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8D%E8%89%BA%E4%BA%BA%E8%BE%9E%E6%BC%94%E5%90%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%B3%E5%AE%9A%E8%87%AA%E5%B7%B1%E4%B8%8A%E5%8F%B0%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "特朗普肖像上250美元钞票有哪些难题",
-          "url": "https://www.toutiao.com/trending/7646031446183792154/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "美伊局势再添迷雾！协议草案遭遇更严苛修改 特朗普重申“不急”",
-          "url": "https://www.cls.cn/detail/2386550",
-          "source": "财联社热门",
-          "ranks": [
-            9
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时32分"
+          "time_info": "00时11分"
         },
         {
-          "title": "特朗普将伊拉克纳入特使汤姆·巴拉克治叙职能范围",
-          "url": "https://wallstreetcn.com/livenews/3111962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "高盛称对冲基金以六个月来的最快速度买入美股",
-          "url": "https://wallstreetcn.com/livenews/3112323",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
-        },
-        {
-          "title": "美光科技美股盘前涨超4%，盘前价格突破1000美元/股。",
-          "url": "https://wallstreetcn.com/livenews/3112292",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
-        },
-        {
-          "title": "美股软件股盘前走高涨，IBM上涨5.4%，Adobe上涨4.1%，Salesforce上涨3.5%。",
-          "url": "https://wallstreetcn.com/livenews/3112282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
-        },
-        {
-          "title": "美股三大股指期货周一基本平开。",
-          "url": "https://flash.jin10.com/detail/20260601060027642800",
+          "title": "据AXIOS网站：黎巴嫩议会议长当地时间周日告诉特朗普政府，真主党已准备好与以色列全面停火，并承诺保证停火协议的执行。",
+          "url": "https://flash.jin10.com/detail/20260601233235828800",
           "source": "金十数据",
           "ranks": [
-            26
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待 DeepSeek 在 2026.5.29 晚限制修改输入次数？",
-          "url": "https://www.zhihu.com/question/2043802300246915002",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
+          "time_info": "00时11分"
         }
       ]
     },
@@ -341,15 +323,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI模型推翻80年的数学经典猜想，引发学界震动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33276037",
-          "source": "澎湃新闻",
+          "title": "OpenAI被美国佛罗里达州总检察长起诉，与AI的诸多危害有关。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3112532",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时08分"
+          "time_info": "00时11分"
         }
       ]
     }
