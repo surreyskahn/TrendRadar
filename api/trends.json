@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-05T19:40:14.948382+08:00",
-  "total_titles_processed": 729,
+  "generated_at": "2026-07-05T23:19:02.471184+08:00",
+  "total_titles_processed": 877,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 33,
       "titles": [
+        {
+          "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
+          "url": "https://wallstreetcn.com/articles/3776207",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时33分 ~ 23时19分]"
+        },
         {
           "title": "普京与特朗普通话85分钟，细节公布",
           "url": "https://news.ifeng.com/c/8uVO6TXjAXb",
@@ -20,22 +31,23 @@
           "time_info": "[15时33分 ~ 19时40分]"
         },
         {
+          "title": "特朗普又把自己加上了“总统山”",
+          "url": "https://news.ifeng.com/c/8uW6iftDRFS",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时39分 ~ 23时19分]"
+        },
+        {
           "title": "特朗普称内塔尼亚胡知道“谁是老大”",
           "url": "https://news.ifeng.com/c/8uVCbfraHd5",
           "source": "凤凰网",
           "ranks": [
             3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时33分 ~ 19时40分]"
-        },
-        {
-          "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
-          "url": "https://wallstreetcn.com/articles/3776207",
-          "source": "华尔街见闻",
-          "ranks": [
             4
           ],
           "is_new": false,
@@ -54,15 +66,16 @@
           "time_info": "[15时33分 ~ 19时40分]"
         },
         {
-          "title": "特朗普又把自己加上了“总统山”",
-          "url": "https://news.ifeng.com/c/8uW6iftDRFS",
+          "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
+          "url": "https://news.ifeng.com/c/8uVsCwKcWdW",
           "source": "凤凰网",
           "ranks": [
+            7,
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 19时40分]"
+          "appearance_count": 4,
+          "time_info": "[19时39分 ~ 23时19分]"
         },
         {
           "title": "特朗普：我们很善良，给伊朗一周时间办丧事",
@@ -82,7 +95,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -103,22 +116,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时34分 ~ 19时40分]"
-        },
-        {
-          "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
-          "url": "https://news.ifeng.com/c/8uVsCwKcWdW",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 19时40分]"
+          "appearance_count": 3,
+          "time_info": "[15时34分 ~ 23时19分]"
         },
         {
           "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
@@ -126,11 +129,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时34分 ~ 19时40分]"
+          "appearance_count": 3,
+          "time_info": "[15时34分 ~ 23时19分]"
         },
         {
           "title": "普京与特朗普通话85分钟",
@@ -378,8 +382,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "伊拉克女信众：哈梅内伊不仅属于伊朗，是所有人的领袖",
+          "url": "https://news.ifeng.com/c/8uWHzcgIJ5I",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时18分 ~ 23时19分]"
+        },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗国际海事局表示，卡塔尔鲁韦斯港和伊朗港口之间的海上贸易恢复。",
           "url": "https://flash.jin10.com/detail/20260705184100307800",
@@ -387,7 +402,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -485,6 +500,39 @@
           "time_info": "[07时04分 ~ 15时34分]"
         },
         {
+          "title": "伊朗已故最高领袖哈梅内伊三子现身",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%B7%B2%E6%95%85%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E4%B8%89%E5%AD%90%E7%8E%B0%E8%BA%AB%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时18分 ~ 23时19分]"
+        },
+        {
+          "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
+          "url": "https://wallstreetcn.com/livenews/3129009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "据沙特媒体哈达斯：伊朗议会议长卡利巴夫表示，伊朗认为尽管存在困难，但与美国达成共识是可能的。",
+          "url": "https://flash.jin10.com/detail/20260705223200385800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "霍尔木兹海峡阿曼航道船舶锐减 伊朗持续强化航道控制",
           "url": "https://flash.jin10.com/detail/20260705134913699800",
           "source": "金十数据",
@@ -513,7 +561,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -546,15 +594,26 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
+        },
+        {
+          "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
+          "url": "https://flash.jin10.com/detail/20260705195906511800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
@@ -562,11 +621,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时33分 ~ 19时40分]"
+          "appearance_count": 6,
+          "time_info": "[15时33分 ~ 23时19分]"
         },
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
@@ -579,6 +639,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时04分 ~ 15时34分]"
+        },
+        {
+          "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时18分 ~ 23时19分]"
         },
         {
           "title": "如何看待字节员工靠炒美股财富自由后离职，称投资比大厂升职更容易实现财务自由？",
@@ -631,11 +702,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时33分 ~ 19时40分]"
+          "appearance_count": 6,
+          "time_info": "[15时33分 ~ 23时19分]"
         }
       ]
     }
