@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T07:08:33.189225+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-07-06T16:27:38.894139+08:00",
+  "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
@@ -19,6 +19,17 @@
           "time_info": "07时08分"
         },
         {
+          "title": "特朗普一通电话后，国际足联“破例”了",
+          "url": "https://news.ifeng.com/c/8uWz9x0USqP",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
           "url": "https://wallstreetcn.com/articles/3776207",
           "source": "华尔街见闻",
@@ -28,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "特朗普：哈梅内伊葬礼上一次攻击就能全部干掉伊朗高层，但不会这么做，这样就没人谈判了",
+          "url": "https://wallstreetcn.com/articles/3776227",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "特朗普又把自己加上了“总统山”",
@@ -98,8 +120,80 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
+          "url": "https://wallstreetcn.com/articles/3776204",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "本周重要事件与数据预告：美联储会议纪要；中国CPI、外储；SK海力士登陆美股",
+          "url": "https://flash.jin10.com/detail/20260706070621012800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "美股盘前，大型科技股普涨，美光科技涨超3%，闪迪涨超5%，英特尔涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3129248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
+          "url": "https://wallstreetcn.com/articles/3776235",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊拉克女信众：哈梅内伊不仅属于伊朗，是所有人的领袖",
@@ -111,6 +205,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "伊朗借哈梅内伊国葬释放3个政治讯息",
+          "url": "https://news.ifeng.com/c/8uXROeZKlPw",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "伊朗最高领袖发布任免令",
+          "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "伊朗最高领袖任命埃杰伊继续担任司法总监",
@@ -148,45 +264,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
-          "url": "https://wallstreetcn.com/articles/3776204",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "本周重要事件与数据预告：美联储会议纪要；中国CPI、外储；SK海力士登陆美股",
-          "url": "https://flash.jin10.com/detail/20260706070621012800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
-          "url": "https://wallstreetcn.com/articles/3776130",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -200,6 +277,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "三井住友：东证指数调整或为铠侠带来185亿美元被动资金流入",
+          "url": "https://flash.jin10.com/detail/20260706160752308800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         }
       ]
     }
