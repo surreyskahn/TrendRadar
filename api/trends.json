@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-06T21:53:37.067513+08:00",
-  "total_titles_processed": 810,
+  "generated_at": "2026-07-07T00:56:03.617003+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "特朗普：就红牌与国际足联主席通话",
+          "url": "https://www.toutiao.com/trending/7659176770528395327/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 00时56分]"
+        },
         {
           "title": "特朗普一通电话后，国际足联“破例”了",
           "url": "https://news.ifeng.com/c/8uWz9x0USqP",
@@ -16,168 +27,124 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时27分 ~ 21时53分]"
+          "time_info": "[00时55分 ~ 00时56分]"
         },
         {
-          "title": "美国总统特朗普在白宫发表讲话，赞扬了特朗普账户。",
-          "url": "https://flash.jin10.com/detail/20260706212842674800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
-          "url": "https://news.ifeng.com/c/8uVsCwKcWdW",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "美国总统特朗普启动特朗普账户。",
-          "url": "https://flash.jin10.com/detail/20260706212804859800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
-          "url": "https://wallstreetcn.com/articles/3776207",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普：我们很尊重澳大利亚。 赞赏澳洲的退休（金）系统。",
+          "url": "https://wallstreetcn.com/livenews/3129494",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时08分"
+          "time_info": "00时56分"
         },
         {
-          "title": "特朗普：哈梅内伊葬礼上一次攻击就能全部干掉伊朗高层，但不会这么做，这样就没人谈判了",
-          "url": "https://wallstreetcn.com/articles/3776227",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "特朗普又把自己加上了“总统山”",
-          "url": "https://news.ifeng.com/c/8uW6iftDRFS",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "特朗普一个电话改写世界杯？FIFA撤销红牌引爆“政治干预体育”风暴",
-          "url": "https://flash.jin10.com/detail/20260706065107849800",
+          "title": "美国总统特朗普：我们对澳大利亚非常尊重。",
+          "url": "https://flash.jin10.com/detail/20260707002308386800",
           "source": "金十数据",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "特朗普今天将在白宫敲开市钟 推广“特朗普账户”",
-          "url": "https://flash.jin10.com/detail/20260706212216212800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时53分"
+          "time_info": "00时56分"
         },
         {
-          "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33518572",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "特朗普将自己头像加在林肯旁边",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E8%87%AA%E5%B7%B1%E5%A4%B4%E5%83%8F%E5%8A%A0%E5%9C%A8%E6%9E%97%E8%82%AF%E6%97%81%E8%BE%B9%23&t=31&band_rank=20&Refer=top",
+          "title": "特朗普插手世界杯红牌",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%92%E6%89%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BA%A2%E7%89%8C%23&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
-            20
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 00时56分]"
         },
         {
-          "title": "特朗普据悉计划在土耳其会见泽连斯基后与普京通话",
-          "url": "https://flash.jin10.com/detail/20260706050829580800",
-          "source": "金十数据",
+          "title": "古巴前领导人孙子：愿同特朗普谈判",
+          "url": "https://www.toutiao.com/trending/7659274358080143401/",
+          "source": "今日头条",
           "ranks": [
-            27
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 00时56分]"
         },
         {
-          "title": "美媒：特朗普施压国际足联 美国队头号射手红牌处罚被暂缓执行",
-          "url": "https://flash.jin10.com/detail/20260706042147057800",
+          "title": "美国总统特朗普在“特朗普账户”餐会上宣称：黑石集团、贝莱德集团、高盛都来了。",
+          "url": "https://wallstreetcn.com/livenews/3129489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "美国总统特朗普赞赏股市上涨。",
+          "url": "https://wallstreetcn.com/livenews/3129485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "美国总统特朗普：今天黑石、贝莱德和高盛的负责人全都到场了。",
+          "url": "https://flash.jin10.com/detail/20260707001232470800",
           "source": "金十数据",
           "ranks": [
-            28
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时08分"
+          "time_info": "00时56分"
+        },
+        {
+          "title": "美国总统特朗普：做空者正遭受重创。",
+          "url": "https://flash.jin10.com/detail/20260707000923487800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "国际足联主席：已接到美国总统特朗普关于巴洛贡世界杯停赛事宜的电话。",
+          "url": "https://flash.jin10.com/detail/20260707000423750800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "美国总统特朗普：将在白宫建设无人机港口。",
+          "url": "https://flash.jin10.com/detail/20260707000250083800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时56分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "伊拉克女信众：哈梅内伊不仅属于伊朗，是所有人的领袖",
-          "url": "https://news.ifeng.com/c/8uWHzcgIJ5I",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "伊朗借哈梅内伊国葬释放3个政治讯息",
-          "url": "https://news.ifeng.com/c/8uXROeZKlPw",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
         {
           "title": "现场：伊朗民众向灵车抛投鲜花、头巾",
           "url": "https://news.ifeng.com/c/8uXrYG1lG4D",
@@ -185,193 +152,103 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 00时56分]"
         },
         {
           "title": "伊朗最高领袖发布任免令",
           "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
           "source": "凤凰网",
           "ranks": [
-            7,
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时27分 ~ 21时53分]"
+          "time_info": "[00时55分 ~ 00时56分]"
         },
         {
-          "title": "中国驻伊朗大使馆：7月8日起恢复所有领事证件业务",
-          "url": "https://wallstreetcn.com/livenews/3129402",
+          "title": "欧洲央行管委Wunsch：似乎伊朗冲击已经消退，我们尚未看到太多的第二轮（通胀）效应。 我们可能还得（围绕货币政策）采取更多行动，但形势并不要求央行大幅紧缩。 不排除央行再次（采取加息）行动，但不要让我们等太久。",
+          "url": "https://wallstreetcn.com/livenews/3129484",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时53分"
+          "time_info": "00时56分"
         },
         {
-          "title": "伊朗最高领袖任命埃杰伊继续担任司法总监",
-          "url": "https://wallstreetcn.com/livenews/3129023",
+          "title": "加拿大央行：伊朗停火后，加拿大企业的通胀预期有所缓解",
+          "url": "https://wallstreetcn.com/livenews/3129481",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "以色列央行：当前经济指标显示，在伊朗战争开始后的急剧下降后，经济活动持续复苏。",
-          "url": "https://flash.jin10.com/detail/20260706210700596800",
-          "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时53分"
+          "time_info": "00时56分"
         },
         {
-          "title": "英法高调宣布保障霍尔木兹航行自由，伊朗强硬警告，国际油价暗盘拉升，中东局势会再度升级吗？",
-          "url": "https://www.zhihu.com/question/2056886502731297310",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "中国驻伊朗使馆：7月8日起恢复所有领事证件业务",
-          "url": "https://flash.jin10.com/detail/20260706210532186800",
+          "title": "欧洲央行管委温施：伊朗冲击似乎已经消失，我们没有看到太多的二次效应。",
+          "url": "https://flash.jin10.com/detail/20260706235245506800",
           "source": "金十数据",
           "ranks": [
-            20
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时53分"
+          "time_info": "00时56分"
         },
         {
-          "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
-          "url": "https://wallstreetcn.com/livenews/3129009",
+          "title": "欧洲央行执委Schnabel：管道压力和供应链压力仍然偏高。 不可以简单地看淡（与伊朗战争相关的）冲击。",
+          "url": "https://wallstreetcn.com/livenews/3129462",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "以色列央行：美国与伊朗签署的谅解备忘录导致能源价格下降，全球地缘政治紧张局势有所缓和，但不确定性水平仍然很高。",
-          "url": "https://flash.jin10.com/detail/20260706210445012800",
-          "source": "金十数据",
-          "ranks": [
-            23
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时53分"
+          "time_info": "00时56分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 4,
       "titles": [
         {
           "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
           "url": "https://wallstreetcn.com/articles/3776130",
           "source": "华尔街见闻",
           "ranks": [
-            2,
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时27分 ~ 21时53分]"
-        },
-        {
-          "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
-          "url": "https://wallstreetcn.com/articles/3776204",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "本周重要事件与数据预告：美联储会议纪要；中国CPI、外储；SK海力士登陆美股",
-          "url": "https://flash.jin10.com/detail/20260706070621012800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "美股三大股指集体高开，道指涨0.11%，标普500指数涨0.32%，纳指涨0.78%。博通涨3.5%，公司宣布与苹果合作协议延长至2031年。存储概念股集体走高，西部数据涨超5%，闪迪涨超4%，希捷科技涨超4%，美光科技涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3129413",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "美股盘前，大型科技股普涨，美光科技涨超3%，闪迪涨超5%，英特尔涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3129248",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
-          "url": "https://wallstreetcn.com/articles/3776130",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3129407",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
+          "time_info": "[00时55分 ~ 00时56分]"
         },
         {
           "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
           "url": "https://wallstreetcn.com/articles/3776235",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时27分 ~ 21时53分]"
+          "time_info": "[00时55分 ~ 00时56分]"
+        },
+        {
+          "title": "AI情绪反弹，美股上扬，存储概念股走高，西部数据涨超5%，美元走强",
+          "url": "https://wallstreetcn.com/articles/3776262",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 00时56分]"
         },
         {
           "title": "美股期指延续涨势 纳斯达克100指数期货涨超1% | 今夜看点",
@@ -382,86 +259,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "博通美股盘前一度涨超5%，报道称博通与苹果同意将技术合作扩展至2031年，博通将为苹果开发定制ASIC芯片产品。",
-          "url": "https://wallstreetcn.com/livenews/3129383",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Gemini 3.5 Pro传7月17日发布，前端碾压Fable 5",
-          "url": "https://wallstreetcn.com/livenews/3129408",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
-          "url": "https://wallstreetcn.com/articles/3776218",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "油价下跌之际 美债收益率涨跌互现、美元走高",
-          "url": "https://flash.jin10.com/detail/20260706205522756800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "三井住友：东证指数调整或为铠侠带来185亿美元被动资金流入",
-          "url": "https://flash.jin10.com/detail/20260706160752308800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
+          "time_info": "00时56分"
         }
       ]
     }
