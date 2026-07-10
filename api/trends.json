@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-07-10T07:19:01.971068+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2026-07-10T15:43:08.599677+08:00",
+  "total_titles_processed": 710,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "伊朗发生致命枪击事件，距哈梅内伊安葬地仅17公里",
+          "url": "https://news.ifeng.com/c/8udfBwd2vGP",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 15时43分]"
+        },
+        {
+          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
+          "url": "https://wallstreetcn.com/articles/3776602",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 15时43分]"
+        },
         {
           "title": "以总理：“不允许”伊朗拥核 拟大幅追加国防预算",
           "url": "https://flash.jin10.com/detail/20260710070756335800",
@@ -14,7 +36,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -103,7 +125,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -114,7 +136,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -147,7 +169,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -169,7 +191,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         }
@@ -177,7 +199,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
@@ -236,6 +258,39 @@
           "time_info": "[00时31分 ~ 07时19分]"
         },
         {
+          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
+          "url": "https://news.ifeng.com/c/8udg4food2U",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 15时43分]"
+        },
+        {
+          "title": "特朗普“把自己困住了”，陷入两难",
+          "url": "https://news.ifeng.com/c/8uddEUs34xh",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 15时43分]"
+        },
+        {
+          "title": "特朗普搞中国那套，拿来对付西班牙？",
+          "url": "https://news.ifeng.com/c/8udchHV60GP",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 15时43分]"
+        },
+        {
           "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33547226",
           "source": "澎湃新闻",
@@ -264,7 +319,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -275,7 +330,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -286,7 +341,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         }
@@ -294,7 +349,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
@@ -309,6 +364,17 @@
           "time_info": "[00时31分 ~ 07时19分]"
         },
         {
+          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 15时43分]"
+        },
+        {
           "title": "芯片股领涨提振美股，油价下跌令市场暂时搁置地缘风险，黄金加密货币反弹",
           "url": "https://wallstreetcn.com/articles/3776523",
           "source": "华尔街见闻",
@@ -320,6 +386,17 @@
           "time_info": "[07时18分 ~ 07时19分]"
         },
         {
+          "title": "【早报】美股贵金属、存储股集体爆发；油价下挫，黄金走强；兆易创新、工业富联等业绩预计倍增；法国成首支四强球队",
+          "url": "https://www.cls.cn/detail/2422278",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
           "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
           "url": "https://wallstreetcn.com/articles/3776523",
           "source": "华尔街见闻",
@@ -329,6 +406,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 00时32分]"
+        },
+        {
+          "title": "美股收盘：“AI的光”再度闪耀 纳指涨超1% 存储、光通信概念领涨",
+          "url": "https://www.cls.cn/detail/2422268",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 15时43分]"
         },
         {
           "title": "美股期指上涨 纳指期货涨近1% 芯片股盘前集体走强 | 今夜看点",
@@ -353,24 +442,13 @@
           "time_info": "[07时18分 ~ 07时19分]"
         },
         {
-          "title": "美股收盘：“AI的光”再度闪耀 纳指涨超1% 存储、光通信概念领涨",
-          "url": "https://www.cls.cn/detail/2422268",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
           "title": "据华尔街日报，奈飞正探索推出直播电视及捆绑服务。 该公司高管近期讨论了增加直播频道事宜。 该公司正讨论竞标2030年及2034年世界杯转播权。 奈飞美股盘后跌2%。",
           "url": "https://wallstreetcn.com/livenews/3131557",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         }
@@ -378,7 +456,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI高管Fidji Simo将卸任",
@@ -387,7 +465,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -398,7 +476,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -409,9 +487,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
+          "url": "https://wallstreetcn.com/articles/3776605",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 15时43分]"
+        },
+        {
+          "title": "如何看待 Codex 与 ChatGPT 合并，实际使用体验有什么变化？",
+          "url": "https://www.zhihu.com/question/2058849029027632241",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 15时43分]"
         },
         {
           "title": "OpenAI：在与特朗普政府磋商后对GPT-5.6做出多项调整",
@@ -466,6 +566,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "分析师：金价前景依然乐观",
+          "url": "https://flash.jin10.com/detail/20260710153200924800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
+          "title": "策略师：地缘政治紧张与高利率或施压金价",
+          "url": "https://flash.jin10.com/detail/20260710150523117800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 1,
       "titles": [
@@ -476,7 +604,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         }
