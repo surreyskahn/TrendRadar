@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T14:34:25.457650+08:00",
-  "total_titles_processed": 569,
+  "generated_at": "2026-07-30T19:57:09.024154+08:00",
+  "total_titles_processed": 809,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3778237",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时03分 ~ 14时34分]"
+          "appearance_count": 5,
+          "time_info": "[07时03分 ~ 19时57分]"
         },
         {
           "title": "特朗普：伊朗请求不要发动打击，但美国将给他们一个教训",
@@ -39,6 +40,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
+          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 19时57分]"
         },
         {
           "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
@@ -75,6 +88,18 @@
           "time_info": "[07时03分 ~ 07时04分]"
         },
         {
+          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时34分 ~ 19时57分]"
+        },
+        {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
           "url": "https://www.toutiao.com/trending/7667418781938679858/",
           "source": "今日头条",
@@ -108,35 +133,13 @@
           "time_info": "07时04分"
         },
         {
-          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
-          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        },
-        {
           "title": "中国向伊朗提供武器？特朗普搅混水：要是真的，很失望",
           "url": "https://news.ifeng.com/c/8vAy9S9JapS",
           "source": "凤凰网",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        },
-        {
-          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -158,7 +161,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -176,9 +179,158 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 7,
+      "keyword_group": "伊朗",
+      "match_count": 12,
       "titles": [
+        {
+          "title": "科威特军方：伊朗袭击该国北部致一中企雇员死亡",
+          "url": "https://news.ifeng.com/c/8vBRvOidAuY",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 19时57分]"
+        },
+        {
+          "title": "有报道称中方将提供400枚肩扛式导弹给伊朗，外交部：毫无根据",
+          "url": "https://news.ifeng.com/c/8vBNVZCUP9m",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 19时57分]"
+        },
+        {
+          "title": "历史性一刻，伊朗先发制人袭击美军基地",
+          "url": "https://v.ifeng.com/c/8vA9hUsD4WZ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 19时57分]"
+        },
+        {
+          "title": "伊朗称打击约旦美军基地摧毁3架F-35",
+          "url": "https://www.toutiao.com/trending/7668276655902690879/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 19时57分]"
+        },
+        {
+          "title": "美称伊朗发射导弹袭击驻中东美军",
+          "url": "https://www.douyin.com/hot/2588834",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时04分"
+        },
+        {
+          "title": "伊朗将接收中国造肩扛式防空导弹发射装置？外交部：不符合事实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33684903",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
+          "title": "美国将对购买俄油气的国家征收 100% 二级关税、同时延长伊朗制裁，如何看待此举？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2065729116125521259",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "据阿拉伯半岛电视台援引伊朗胡齐斯坦省省长称，美军今日对阿瓦玆市的袭击造成两处学生住宅综合体受损。",
+          "url": "https://flash.jin10.com/detail/20260730193949915800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
+          "title": "伊朗格什姆岛和基什岛遭袭 美军发布打击画面",
+          "url": "https://wallstreetcn.com/livenews/3142400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
+          "title": "Kpler大宗商品研究主管Matt Smith表示，全球燃料供应极其紧张，这促使炼油商开足马力以获取异常丰厚的利润。在乌克兰和伊朗战争引发的供应中断之后，燃料市场已几乎没有缓冲空间。 “超大规模的炼油利润继续促使炼油商尽可能满负荷运转，导致原油库存被大幅消耗。”",
+          "url": "https://wallstreetcn.com/livenews/3141927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时04分"
+        },
+        {
+          "title": "伊朗军方称打击约旦美军基地并摧毁3架F-35战机",
+          "url": "https://wallstreetcn.com/livenews/3142397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊拉克总司令部发言人否认了有关从伊拉克境内对沙特进行攻击的指控，称相关质控毫无根据。",
+          "url": "https://flash.jin10.com/detail/20260730193718783800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美股存储板块盘前走强，美光科技(MU.O)涨3.6%，SK海力士(SKHY.O)涨3.3%，闪迪(SNDK.O)涨6%。",
+          "url": "https://flash.jin10.com/detail/20260730195238521800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
         {
           "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
           "url": "https://www.cls.cn/detail/2440737",
@@ -231,7 +383,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -261,18 +413,30 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
           "url": "https://www.zhihu.com/question/2065583157664018461",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 19时57分]"
+        },
+        {
+          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
+          "url": "https://www.cls.cn/detail/2441076",
+          "source": "财联社热门",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时34分"
+          "time_info": "19时57分"
         },
         {
           "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
@@ -281,7 +445,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -314,59 +478,9 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "历史性一刻，伊朗先发制人袭击美军基地",
-          "url": "https://v.ifeng.com/c/8vA9hUsD4WZ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        },
-        {
-          "title": "美称伊朗发射导弹袭击驻中东美军",
-          "url": "https://www.douyin.com/hot/2588834",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时04分"
-        },
-        {
-          "title": "美国将对购买俄油气的国家征收 100% 二级关税、同时延长伊朗制裁，如何看待此举？将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2065729116125521259",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
           "time_info": "14时34分"
-        },
-        {
-          "title": "Kpler大宗商品研究主管Matt Smith表示，全球燃料供应极其紧张，这促使炼油商开足马力以获取异常丰厚的利润。在乌克兰和伊朗战争引发的供应中断之后，燃料市场已几乎没有缓冲空间。 “超大规模的炼油利润继续促使炼油商尽可能满负荷运转，导致原油库存被大幅消耗。”",
-          "url": "https://wallstreetcn.com/livenews/3141927",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时04分"
         }
       ]
     },
@@ -380,11 +494,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时03分 ~ 14时34分]"
+          "appearance_count": 5,
+          "time_info": "[07时03分 ~ 19时57分]"
         },
         {
           "title": "阿波罗首席经济学家：美联储放弃前瞻指引，导致美债“溜溜球”式波动",
@@ -421,7 +536,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         }
@@ -438,7 +553,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         }
