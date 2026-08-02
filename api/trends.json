@@ -1,249 +1,22 @@
 {
-  "generated_at": "2026-08-02T14:39:42.509729+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-08-02T19:21:21.713165+08:00",
+  "total_titles_processed": 730,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "以媒：特朗普接近批准袭击伊朗能源设施",
-          "url": "https://news.ifeng.com/c/8vFPS4k24LG",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时00分 ~ 07时01分]"
-        },
-        {
-          "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
-          "url": "https://wallstreetcn.com/articles/3778504",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
-          "title": "特朗普：已同意取消对伊朗的打击",
-          "url": "https://v.ifeng.com/c/8vG3old8I3A",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
-          "title": "伊朗军方：特朗普撒谎",
-          "url": "https://news.ifeng.com/c/8vG71UIAJN7",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
-          "title": "特朗普媒体公司推出了Truth API，该付费服务​​使订阅用户可以比普通用户更早实时访问“真相社交媒体”（Truth Social）上的帖子。该服务每月费用高达10万美元，主要面向交易公司和企业。",
-          "url": "https://flash.jin10.com/detail/20260802044624523800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "伊朗军方：特朗普称伊朗要求停止攻击是“谎言”",
-          "url": "https://wallstreetcn.com/livenews/3143651",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
-          "title": "特朗普：伊朗确实挺硬气",
-          "url": "https://news.ifeng.com/c/8vErXsygJc0",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时00分 ~ 07时01分]"
-        },
-        {
-          "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
-          "url": "https://www.cls.cn/detail/2443172",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 14时39分]"
-        },
-        {
-          "title": "8 月 1 日特朗普称同意取消军事打击伊朗，这次军事打击行动终于要结束了吗？",
-          "url": "https://www.zhihu.com/question/2067198062456463879",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
-          "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "俄对乌发动大规模袭击，摧毁美国公司无人机工厂！俄方：使用陆基、海基远程高精度武器和无人机！特朗普：尚未同意授权乌生产“爱国者”",
-          "url": "https://wallstreetcn.com/articles/3778492",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
-          "title": "分析师：特朗普取消对伊打击，沙特外交斡旋与伊朗承压或是关键因素",
-          "url": "https://flash.jin10.com/detail/20260802133619872800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
-          "title": "特朗普称同意取消军事打击伊朗",
-          "url": "https://wallstreetcn.com/livenews/3143647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
-          "title": "特朗普同意取消对伊朗的打击",
-          "url": "https://www.douyin.com/hot/2594184",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
-          "title": "特朗普：同意取消对伊朗的打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33696747",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
-          "title": "伊朗军方：特朗普称伊朗要求停止攻击是“谎言”",
-          "url": "https://flash.jin10.com/detail/20260802115054329800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
-          "title": "特朗普敦促参议员批准Blanche担任美国司法部长。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3143604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "美国总统特朗普：我正在摧毁伊朗货币，伊朗面临严重通胀。",
-          "url": "https://flash.jin10.com/detail/20260802022303381800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "美国总统特朗普发表图片：第51个州（委内瑞拉）。",
-          "url": "https://flash.jin10.com/detail/20260802021825118800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "特朗普Truth Social发布帖文：由于特朗普总统，石油出口正在激增！",
-          "url": "https://flash.jin10.com/detail/20260802021650818800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 24,
       "titles": [
         {
-          "title": "伊朗外长与沙特外交大臣通电话，讨论地区局势",
-          "url": "https://wallstreetcn.com/livenews/3143655",
+          "title": "伊朗称重开霍尔木兹海峡计划纯属谣言",
+          "url": "https://wallstreetcn.com/livenews/3143678",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时39分"
+          "time_info": "19时21分"
         },
         {
           "title": "土耳其外长：今天，我与伊朗外长阿拉格齐进行了通话，双方探讨了当前（美伊）谈判进程的最新情况。土耳其将继续为结束本地区冲突并建立持久和平而努力。",
@@ -257,6 +30,40 @@
           "time_info": "07时01分"
         },
         {
+          "title": "伊朗称重开霍尔木兹海峡计划纯属谣言",
+          "url": "https://flash.jin10.com/detail/20260802182144119800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "伊朗外长与沙特外交大臣通电话，讨论地区局势",
+          "url": "https://wallstreetcn.com/livenews/3143655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 19时21分]"
+        },
+        {
+          "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
+          "url": "https://wallstreetcn.com/articles/3778501",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 19时21分]"
+        },
+        {
           "title": "伊朗用了新武器",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%94%A8%E4%BA%86%E6%96%B0%E6%AD%A6%E5%99%A8%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -266,17 +73,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时00分 ~ 07时01分]"
-        },
-        {
-          "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
-          "url": "https://wallstreetcn.com/articles/3778501",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时39分"
         },
         {
           "title": "阿拉格齐警告美方：伊朗将坚决回应任何侵犯行为",
@@ -290,13 +86,24 @@
           "time_info": "07时01分"
         },
         {
+          "title": "伊朗铜业公司2026年实现约90万亿里亚尔设备和零部件国产化",
+          "url": "https://flash.jin10.com/detail/20260802175108455800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
           "title": "伊朗商品交易所单日白银入库数量创历史新高",
           "url": "https://flash.jin10.com/detail/20260802132032906800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -310,6 +117,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "伊媒：伊朗已同意重新开放霍尔木兹海峡的报道为假消息",
+          "url": "https://flash.jin10.com/detail/20260802173731395800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "以色列N12频道首席政治分析师表示，伊朗方面声称没有达成重新开放霍尔木兹海峡的协议，并称已公布的报道不实。",
+          "url": "https://flash.jin10.com/detail/20260802172909028800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "美国媒体披露美军向伊朗居民区投重磅炸弹",
@@ -340,9 +169,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
+        },
+        {
+          "title": "伊朗外长与沙特外交大臣通电话",
+          "url": "https://www.toutiao.com/trending/7668551012311138340/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "伊朗外长在分别与土耳其外长、巴基斯坦陆军司令通话时警告称，美国不得采取任何“冒险行动”。美国和以色列的任何“侵略”或地区国家的参与都将遭到“果断回应”。",
@@ -373,9 +213,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
+        },
+        {
+          "title": "以色列第12频道援引外交人士消息报道称，卡塔尔外交人士正在与伊朗谈判，以确保伊朗革命卫队支持有关霍尔木兹海峡的相关安排。",
+          "url": "https://flash.jin10.com/detail/20260802154122308800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "阿拉格齐警告美方：伊朗将坚决回应任何侵犯行为",
@@ -384,7 +235,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -395,7 +246,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -406,7 +257,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -424,49 +275,272 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
+      "keyword_group": "特朗普",
+      "match_count": 23,
       "titles": [
         {
-          "title": "美股收盘：超级权重托举指数V型反转 中国金龙指数五连阳",
-          "url": "https://www.cls.cn/detail/2443155",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 14时39分]"
-        },
-        {
-          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
-          "url": "https://www.cls.cn/detail/2443270",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 14时39分]"
-        },
-        {
-          "title": "高盛：7月砸穿拥挤交易，美股牛市没断但更难做了",
-          "url": "https://wallstreetcn.com/articles/3778494",
+          "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
+          "url": "https://wallstreetcn.com/articles/3778504",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 19时21分]"
+        },
+        {
+          "title": "以媒：特朗普接近批准袭击伊朗能源设施",
+          "url": "https://news.ifeng.com/c/8vFPS4k24LG",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时00分 ~ 07时01分]"
+        },
+        {
+          "title": "特朗普：已同意取消对伊朗的打击",
+          "url": "https://v.ifeng.com/c/8vG3old8I3A",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 19时21分]"
+        },
+        {
+          "title": "伊朗军方：特朗普撒谎",
+          "url": "https://news.ifeng.com/c/8vG71UIAJN7",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 19时21分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-02）",
+          "url": "https://flash.jin10.com/detail/20260802184143626800",
+          "source": "金十数据",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "特朗普媒体公司推出了Truth API，该付费服务​​使订阅用户可以比普通用户更早实时访问“真相社交媒体”（Truth Social）上的帖子。该服务每月费用高达10万美元，主要面向交易公司和企业。",
+          "url": "https://flash.jin10.com/detail/20260802044624523800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "伊朗军方：特朗普称伊朗要求停止攻击是“谎言”",
+          "url": "https://wallstreetcn.com/livenews/3143651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 19时21分]"
+        },
+        {
+          "title": "8 月 1 日特朗普称同意取消军事打击伊朗，这次军事打击行动终于要结束了吗？",
+          "url": "https://www.zhihu.com/question/2067198062456463879",
+          "source": "知乎",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 19时21分]"
+        },
+        {
+          "title": "特朗普：同意取消对伊朗的打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33696747",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 19时21分]"
+        },
+        {
+          "title": "特朗普称同意取消军事打击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3143647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 19时21分]"
+        },
+        {
+          "title": "特朗普：伊朗确实挺硬气",
+          "url": "https://news.ifeng.com/c/8vErXsygJc0",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时00分 ~ 07时01分]"
+        },
+        {
+          "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
+          "url": "https://www.cls.cn/detail/2443172",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 14时39分]"
+        },
+        {
+          "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "俄对乌发动大规模袭击，摧毁美国公司无人机工厂！俄方：使用陆基、海基远程高精度武器和无人机！特朗普：尚未同意授权乌生产“爱国者”",
+          "url": "https://wallstreetcn.com/articles/3778492",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "14时39分"
+        },
+        {
+          "title": "特朗普称应伊方要求同意取消打击 伊朗反驳：并未要求停战！",
+          "url": "https://www.cls.cn/detail/2443463",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "分析师：特朗普取消对伊打击，沙特外交斡旋与伊朗承压或是关键因素",
+          "url": "https://flash.jin10.com/detail/20260802133619872800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "特朗普同意取消对伊朗的打击",
+          "url": "https://www.douyin.com/hot/2594184",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "伊朗军方：特朗普称伊朗要求停止攻击是“谎言”",
+          "url": "https://flash.jin10.com/detail/20260802115054329800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "特朗普敦促参议员批准Blanche担任美国司法部长。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3143604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "美国总统特朗普：我正在摧毁伊朗货币，伊朗面临严重通胀。",
+          "url": "https://flash.jin10.com/detail/20260802022303381800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "以色列第12频道援引外交人士消息报道称，伊朗外长阿拉格齐已同意由卡塔尔和美国共同提出的、旨在重新开放霍尔木兹海峡的解决方案。这促使特朗普取消了对伊朗发动袭击的计划。",
+          "url": "https://flash.jin10.com/detail/20260802154046201800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "美国总统特朗普发表图片：第51个州（委内瑞拉）。",
+          "url": "https://flash.jin10.com/detail/20260802021825118800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "特朗普Truth Social发布帖文：由于特朗普总统，石油出口正在激增！",
+          "url": "https://flash.jin10.com/detail/20260802021650818800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
@@ -489,6 +563,59 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时00分 ~ 07时01分]"
+        },
+        {
+          "title": "印度韩国突然宣称有媲美DeepSeek大模型",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E9%9F%A9%E5%9B%BD%E7%AA%81%E7%84%B6%E5%AE%A3%E7%A7%B0%E6%9C%89%E5%AA%B2%E7%BE%8EDeepSeek%E5%A4%A7%E6%A8%A1%E5%9E%8B&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股收盘：超级权重托举指数V型反转 中国金龙指数五连阳",
+          "url": "https://www.cls.cn/detail/2443155",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时01分 ~ 19时21分]"
+        },
+        {
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时01分 ~ 19时21分]"
+        },
+        {
+          "title": "高盛：7月砸穿拥挤交易，美股牛市没断但更难做了",
+          "url": "https://wallstreetcn.com/articles/3778494",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         }
       ]
     },
@@ -505,8 +632,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时00分 ~ 14时39分]"
+          "appearance_count": 4,
+          "time_info": "[07时00分 ~ 19时21分]"
         },
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -514,11 +641,29 @@
           "source": "贴吧",
           "ranks": [
             4,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时00分 ~ 14时39分]"
+          "appearance_count": 4,
+          "time_info": "[07时00分 ~ 19时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Gemini直播",
+          "url": "https://s.weibo.com/weibo?q=Gemini%E7%9B%B4%E6%92%AD&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         }
       ]
     },
@@ -531,11 +676,12 @@
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%BB%91%E8%89%B2%E9%BB%84%E9%87%91%E2%80%9D%E4%BB%B7%E6%A0%BC%E6%89%93%E4%B8%8B%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            26
+            26,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 19时21分]"
         }
       ]
     },
