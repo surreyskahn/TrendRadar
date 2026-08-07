@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T09:33:09.857288+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-08-07T13:46:15.413309+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普签署行政令，宣布加征关税",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时32分 ~ 09时33分]"
+          "appearance_count": 4,
+          "time_info": "[09时32分 ~ 13时46分]"
         },
         {
           "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时32分 ~ 09时33分]"
+          "appearance_count": 4,
+          "time_info": "[09时32分 ~ 13时46分]"
         },
         {
           "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
@@ -36,9 +36,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时33分 ~ 13时46分]"
+        },
+        {
+          "title": "特朗普政府禁止钨废料、电池废料出口 以提升关键矿产供应能力",
+          "url": "https://www.cls.cn/detail/2447915",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时33分 ~ 13时46分]"
         },
         {
           "title": "特朗普大发雷霆，美防长甩锅，暴露大问题",
@@ -48,8 +60,19 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时32分 ~ 13时46分]"
+        },
+        {
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/articles/3778896",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时32分 ~ 09时33分]"
+          "time_info": "[13时45分 ~ 13时46分]"
         },
         {
           "title": "特朗普对多晶硅加征关税",
@@ -74,15 +97,26 @@
           "time_info": "[09时32分 ~ 09时33分]"
         },
         {
-          "title": "特朗普政府禁止钨废料、电池废料出口 以提升关键矿产供应能力",
-          "url": "https://www.cls.cn/detail/2447915",
+          "title": "美国将严厉打击“生育旅游” 特朗普承认某些弹药供应紧张 | 环球市场",
+          "url": "https://www.cls.cn/detail/2447932",
           "source": "财联社热门",
           "ranks": [
-            6
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时33分"
+          "time_info": "13时46分"
+        },
+        {
+          "title": "泽连斯基要导弹，特朗普最新表态：我们也想要",
+          "url": "https://wallstreetcn.com/livenews/3146430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         },
         {
           "title": "特朗普谈霍尔木兹海峡：进展顺利。",
@@ -91,7 +125,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
         }
@@ -99,18 +133,19 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "如何看待梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%？",
           "url": "https://www.zhihu.com/question/2068637080209421054",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时32分 ~ 09时33分]"
+          "appearance_count": 4,
+          "time_info": "[09时32分 ~ 13时46分]"
         },
         {
           "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
@@ -120,8 +155,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时32分 ~ 09时33分]"
+          "appearance_count": 4,
+          "time_info": "[09时32分 ~ 13时46分]"
         },
         {
           "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
@@ -130,9 +165,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
+        },
+        {
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时32分 ~ 13时46分]"
         },
         {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
@@ -146,15 +193,15 @@
           "time_info": "[09时32分 ~ 09时33分]"
         },
         {
-          "title": "DeepSeek拟上调API服务价格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
-          "source": "贴吧",
+          "title": "DeepSeek豪掷1.4亿护航宇树IPO",
+          "url": "https://www.toutiao.com/trending/7671088097861307923/",
+          "source": "今日头条",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时32分 ~ 09时33分]"
+          "time_info": "[13时45分 ~ 13时46分]"
         },
         {
           "title": "DeepSeek腾讯获宇树战略配售",
@@ -174,7 +221,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
         }
@@ -182,8 +229,20 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "伊朗公布霍尔木兹海峡管理草案 国际油价大幅走高",
+          "url": "https://www.cls.cn/detail/2447874",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时33分 ~ 13时46分]"
+        },
         {
           "title": "伊朗总统称目前与最高领袖联络困难，其决策过程遭人利用，如何看待这一言论？伊朗未来局势将如何发展？",
           "url": "https://www.zhihu.com/question/2068728009981440588",
@@ -196,15 +255,15 @@
           "time_info": "[09时32分 ~ 09时33分]"
         },
         {
-          "title": "伊朗公布霍尔木兹海峡管理草案 国际油价大幅走高",
-          "url": "https://www.cls.cn/detail/2447874",
-          "source": "财联社热门",
+          "title": "日本石油公司ENEOS首席财务官：伊朗战争结束后，我们需要中长期内扩大石油储备，并实现原油采购来源多元化。将与政府紧密协调，加强石油供应链的韧性。",
+          "url": "https://flash.jin10.com/detail/20260807132544810800",
+          "source": "金十数据",
           "ranks": [
-            11
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时33分"
+          "time_info": "13时46分"
         },
         {
           "title": "美媒：伊朗与阿曼达成一项不收费的临时协议框架",
@@ -213,7 +272,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
         }
@@ -241,7 +300,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
         }
@@ -287,19 +346,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时32分 ~ 09时33分]"
+          "appearance_count": 4,
+          "time_info": "[09时32分 ~ 13时46分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
           "url": "https://www.cls.cn/detail/2447905",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时33分 ~ 13时46分]"
         }
       ]
     }
