@@ -1,12 +1,227 @@
 {
-  "generated_at": "2026-08-08T13:05:32.982109+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2026-08-08T18:40:52.288284+08:00",
+  "total_titles_processed": 743,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 10,
+      "keyword_group": "伊朗",
+      "match_count": 18,
       "titles": [
+        {
+          "title": "伊朗最高领袖给总统下了“最后警告”？",
+          "url": "https://news.ifeng.com/c/8vOzr19CfFi",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时44分 ~ 06时45分]"
+        },
+        {
+          "title": "以情报高官疑因伊朗行动失败被解职",
+          "url": "https://news.ifeng.com/c/8vOg4e2X7cf",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时44分 ~ 06时45分]"
+        },
+        {
+          "title": "伊朗革命卫队发言人：霍尔木兹海峡的重新开放取决于美国完全接受伊朗的条件；与伊朗和阿曼之间的谈判无关。",
+          "url": "https://flash.jin10.com/detail/20260808181945934800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "是否将辞职？伊朗总统最新发声",
+          "url": "https://news.ifeng.com/c/8vPtnVvufXW",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "伊朗战事打不下去了？美军参联会主席力主“翻篇”",
+          "url": "https://news.ifeng.com/c/8vQJU1FtdBd",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "伊朗革命卫队：重开海峡需美国接受伊朗条件",
+          "url": "https://wallstreetcn.com/livenews/3146991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "伊朗媒体发布“被击落美以战机残骸”画面",
+          "url": "https://news.ifeng.com/c/8vQNgP1KCAl",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "伊拉克石油部长：伊拉克正与伊朗谈判以允许伊拉克石油出口，但相关安排尚未生效。 新建巴士拉-菲什哈布尔输油管道预计耗资不超过150亿美元。 该管道将包括从哈迪塞到巴尼亚斯的支线，以及泵站和储存设施。",
+          "url": "https://wallstreetcn.com/livenews/3146989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "伊朗发视频隐喻美国国运衰落原因",
+          "url": "https://www.toutiao.com/trending/7671188288800899082/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时44分 ~ 06时45分]"
+        },
+        {
+          "title": "据伊拉克国家通讯社：伊拉克石油部长表示，巴格达正与伊朗进行谈判，以允许伊拉克石油出口，但相关安排尚未生效。",
+          "url": "https://flash.jin10.com/detail/20260808174542910800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "如何评价沙特、巴基斯坦、土耳其三国签的防务协定，也门胡塞和伊朗的联动封锁能否持续，对油价有何影响？",
+          "url": "https://www.zhihu.com/question/2069252730074485781",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "伊朗总统称敌人未能将伊朗推入崩溃",
+          "url": "https://wallstreetcn.com/livenews/3146979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "伊朗官员称已与阿曼就霍尔木兹海峡通行问题明确总体框架",
+          "url": "https://flash.jin10.com/detail/20260808033854319800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时45分"
+        },
+        {
+          "title": "消息人士：美军高层寻找摆脱伊朗战事的途径",
+          "url": "https://wallstreetcn.com/livenews/3146980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "曝美军高层寻找摆脱伊朗战事的途径",
+          "url": "https://www.toutiao.com/trending/7671436241469538350/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "消息人士：美军高层寻找摆脱伊朗战事的途径",
+          "url": "https://flash.jin10.com/detail/20260808144535599800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "伊朗官员称防务协议无法保障沙特安全",
+          "url": "https://wallstreetcn.com/livenews/3146940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "美官员：预计伊朗与阿曼将很快就霍尔木兹海峡问题达成协议",
+          "url": "https://flash.jin10.com/detail/20260808032301628800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
+          "url": "https://www.cls.cn/detail/2448991",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时05分 ~ 18时40分]"
+        },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
           "url": "https://wallstreetcn.com/articles/3778821",
@@ -17,17 +232,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时44分 ~ 06时45分]"
-        },
-        {
-          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
-          "url": "https://www.cls.cn/detail/2448991",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时05分"
         },
         {
           "title": "金十图示：2026年08月07日（周五）美股热门股票行情一览（美股收盘）",
@@ -57,11 +261,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时45分 ~ 13时05分]"
+          "appearance_count": 3,
+          "time_info": "[06时45分 ~ 18时40分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -69,11 +274,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时45分 ~ 13时05分]"
+          "appearance_count": 3,
+          "time_info": "[06时45分 ~ 18时40分]"
         },
         {
           "title": "美股存储板块集体大跌",
@@ -118,12 +324,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
+        },
+        {
+          "title": "李大霄谈美股三大指数高开",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "中期选举临近，特朗普连续21场败诉",
@@ -132,9 +349,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
+        },
+        {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时05分 ~ 18时40分]"
         },
         {
           "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
@@ -145,19 +374,30 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时45分 ~ 13时05分]"
+          "appearance_count": 3,
+          "time_info": "[06时45分 ~ 18时40分]"
         },
         {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
+          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
+          "url": "https://v.ifeng.com/c/8vONreNLVHw",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
+          "url": "https://news.ifeng.com/c/8vQSbJyuyMk",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时05分"
+          "time_info": "18时40分"
         },
         {
           "title": "万斯为何能被特朗普青睐？背后有好几个大佬做靠山",
@@ -166,7 +406,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -177,7 +417,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -221,92 +461,9 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "伊朗最高领袖给总统下了“最后警告”？",
-          "url": "https://news.ifeng.com/c/8vOzr19CfFi",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 06时45分]"
-        },
-        {
-          "title": "以情报高官疑因伊朗行动失败被解职",
-          "url": "https://news.ifeng.com/c/8vOg4e2X7cf",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 06时45分]"
-        },
-        {
-          "title": "是否将辞职？伊朗总统最新发声",
-          "url": "https://news.ifeng.com/c/8vPtnVvufXW",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
-          "title": "伊朗发视频隐喻美国国运衰落原因",
-          "url": "https://www.toutiao.com/trending/7671188288800899082/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 06时45分]"
-        },
-        {
-          "title": "伊朗官员称已与阿曼就霍尔木兹海峡通行问题明确总体框架",
-          "url": "https://flash.jin10.com/detail/20260808033854319800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时45分"
-        },
-        {
-          "title": "伊朗官员称防务协议无法保障沙特安全",
-          "url": "https://wallstreetcn.com/livenews/3146940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
-          "title": "美官员：预计伊朗与阿曼将很快就霍尔木兹海峡问题达成协议",
-          "url": "https://flash.jin10.com/detail/20260808032301628800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时45分"
         }
       ]
     },
@@ -319,11 +476,25 @@
           "url": "https://www.zhihu.com/question/2068108635620774765",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时05分 ~ 18时40分]"
+        },
+        {
+          "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时45分 ~ 18时40分]"
         },
         {
           "title": "梁文锋 只想用座机",
@@ -335,18 +506,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时44分 ~ 06时45分]"
-        },
-        {
-          "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时45分 ~ 13时05分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -366,7 +525,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         }
@@ -383,7 +542,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -405,7 +564,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         }
@@ -421,11 +580,12 @@
           "source": "贴吧",
           "ranks": [
             19,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时44分 ~ 13时05分]"
+          "appearance_count": 4,
+          "time_info": "[06时44分 ~ 18时40分]"
         }
       ]
     },
@@ -440,9 +600,26 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金期货价格突破4400美元关口 特朗普继续推进罢免美联储理事库克 | 环球市场",
+          "url": "https://www.cls.cn/detail/2448987",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
         }
       ]
     }
